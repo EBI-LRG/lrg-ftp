@@ -16,3 +16,4 @@ This directory contains the following files:
 - LRG_10.xml - LRG XML file for PPIB
 - LRG_12.xml - LRG XML file for FKBP10
 - LRG_13.xml - LRG XML file for CALCA
+- LRG_15.xml - LRG XML file for UBE3A
