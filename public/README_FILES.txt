@@ -10,6 +10,7 @@ This directory contains the following files:
 - LRG_2.xml - LRG XML file for COL1A2
 - LRG_3.xml - LRG XML file for COL1A3
 - LRG_4.xml - LRG XML file for CRTAP
+- LRG_5.xml - LRG XML file for LEPRE1
 - LRG_6.xml - LRG XML file for ATP1A2
 - LRG_7.xml - LRG XML file for CACNA1A
 - LRG_8.xml - LRG XML file for SCN1A
