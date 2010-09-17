@@ -1583,8 +1583,17 @@
 								  </xsl:for-each>
 								  <xsl:if test="partial">
 								     <xsl:for-each select="partial">
+									<xsl:variable name="part" select="." />
 									<strong>Note: </strong>
-									<xsl:value-of select="."/> end of this protein lies outside of the LRG
+									<xsl:choose>
+									   <xsl:when test="substring($part,0,1)='5'">
+									      N-terminal
+									   </xsl:when>
+									   <xsl:otherwise>
+									      C-terminal
+									   </xsl:otherwise>
+									</xsl:choose>
+									of this protein lies outside of the LRG
 									<br/>	
 								     </xsl:for-each>
 								  </xsl:if>
@@ -1769,7 +1778,7 @@
 			</xsl:if>
 			<xsl:if test="address">
 			   <tr>
-			      <td class="contact_lbl">Address:</td>
+			      <td class="contact_lbl">Affiliation:</td>
 			      <td class="contact_val"><xsl:value-of select="address"/></td>
 			   </tr>
 			</xsl:if>
