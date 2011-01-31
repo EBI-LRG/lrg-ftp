@@ -5,8 +5,8 @@ There are 93 pending LRG entries
 
 ### Notes
 
-
 # Pending LRG record LRG_226 (TBX1) added
 # Pending LRG record LRG_227 (CFHR5) added
 # Pending LRG record LRG_228 (FADD) added
 # Pending LRG record LRG_229 (TRAF3) added
+# Annotation of LRG record LRG_128 (BTK) updated
