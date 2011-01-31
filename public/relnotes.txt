@@ -1,4 +1,4 @@
-LRG release 2.1e (01-Dec-2010)
+LRG release 3.1.1.1 (31-Jan-2011)
 
 There are 115 LRG entries
-There are 89 pending LRG entries
+There are 93 pending LRG entries
