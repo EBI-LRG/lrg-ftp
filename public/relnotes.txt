@@ -1,8 +1,11 @@
-LRG release 3.1.1.2 (02-Feb-2011)
+LRG release 3.1.2.1 (08-Feb-2011)
 
 There are 115 LRG entries
-There are 93 pending LRG entries
+There are 97 pending LRG entries
 
 ### Notes
 
-# Annotation of LRG record LRG_202 (NEB) updated
+# Pending LRG record LRG_230 (COL4A3) added
+# Pending LRG record LRG_231 (COL4A4) added
+# Pending LRG record LRG_232 (COL4A5) added
+# Pending LRG record LRG_233 (COL4A6) added
