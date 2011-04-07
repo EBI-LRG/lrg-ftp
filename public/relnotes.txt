@@ -1,29 +1,238 @@
-LRG release 3.1.3.1 (18-Feb-2011)
+LRG release 3.1.3.2 (07-Apr-2011)
 
 There are 115 LRG entries
 There are 116 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_131 (TAZ) updated
-# Pending LRG record LRG_190 (MEFV) updated
-
-# Pending LRG record LRG_104 (SBDS) added
-# Pending LRG record LRG_112 (STAT3) added
-# Pending LRG record LRG_121 (TYK2) added
-# Pending LRG record LRG_153 (LCK) added
-# Pending LRG record LRG_161 (PMS2) added
-# Pending LRG record LRG_181 (NLRP12) added
-# Pending LRG record LRG_185 (RNF168) added
-# Pending LRG record LRG_186 (CSF2RA) added
-# Pending LRG record LRG_19 (XIAP) added
-# Pending LRG record LRG_191 (PIK3CD) added
-# Pending LRG record LRG_192 (STAT5B) added
-# Pending LRG record LRG_20 (BLM) added
-# Pending LRG record LRG_218 (MSH2) added
-# Pending LRG record LRG_67 (IFNGR2) added
-# Pending LRG record LRG_68 (IGFBP3) added
-# Pending LRG record LRG_72 (IL12RB1) added
-# Pending LRG record LRG_78 (LIG1) added
-# Pending LRG record LRG_82 (MASP2) added
-# Pending LRG record LRG_87 (NCF1) added
+# LRG record LRG_100 (RASGRP2) annotation updated
+# LRG record LRG_101 (RFX5) annotation updated
+# LRG record LRG_102 (RFXANK) annotation updated
+# LRG record LRG_103 (RFXAP) annotation updated
+# LRG record LRG_105 (SERPING1) annotation updated
+# LRG record LRG_106 (SH2D1A) annotation updated
+# LRG record LRG_107 (SLC35C1) annotation updated
+# LRG record LRG_108 (SMARCAL1) annotation updated
+# LRG record LRG_109 (SP110) annotation updated
+# LRG record LRG_10 (PPIB) annotation updated
+# LRG record LRG_110 (SPINK5) annotation updated
+# LRG record LRG_111 (STAT1) annotation updated
+# LRG record LRG_113 (STX11) annotation updated
+# LRG record LRG_114 (TAPBP) annotation updated
+# LRG record LRG_115 (TCIRG1) annotation updated
+# LRG record LRG_116 (TCN2) annotation updated
+# LRG record LRG_117 (TLR3) annotation updated
+# LRG record LRG_118 (TMC6) annotation updated
+# LRG record LRG_119 (TMC8) annotation updated
+# LRG record LRG_120 (TNFRSF13B) annotation updated
+# LRG record LRG_122 (UNC13D) annotation updated
+# LRG record LRG_123 (UNC93B1) annotation updated
+# LRG record LRG_124 (UNG) annotation updated
+# LRG record LRG_125 (WAS) annotation updated
+# LRG record LRG_126 (ZAP70) annotation updated
+# LRG record LRG_127 (CD55) annotation updated
+# LRG record LRG_128 (BTK) annotation updated
+# LRG record LRG_129 (CFP) annotation updated
+# LRG record LRG_12 (FKBP10) annotation updated
+# LRG record LRG_130 (APC) annotation updated
+# LRG record LRG_13 (CALCA) annotation updated
+# LRG record LRG_15 (UBE3A) annotation updated
+# LRG record LRG_16 (ADA) annotation updated
+# LRG record LRG_17 (AICDA) annotation updated
+# LRG record LRG_18 (AIRE) annotation updated
+# LRG record LRG_1 (COL1A1) annotation updated
+# LRG record LRG_21 (BLNK) annotation updated
+# LRG record LRG_22 (C1QA) annotation updated
+# LRG record LRG_23 (C1QB) annotation updated
+# LRG record LRG_24 (C1QC) annotation updated
+# LRG record LRG_25 (C1S) annotation updated
+# LRG record LRG_26 (C2) annotation updated
+# LRG record LRG_27 (C3) annotation updated
+# LRG record LRG_28 (C5) annotation updated
+# LRG record LRG_29 (C6) annotation updated
+# LRG record LRG_2 (COL1A2) annotation updated
+# LRG record LRG_30 (C7) annotation updated
+# LRG record LRG_31 (C8B) annotation updated
+# LRG record LRG_32 (C9) annotation updated
+# LRG record LRG_33 (CASP10) annotation updated
+# LRG record LRG_34 (CASP8) annotation updated
+# LRG record LRG_35 (CD19) annotation updated
+# LRG record LRG_36 (CD247) annotation updated
+# LRG record LRG_37 (CD3D) annotation updated
+# LRG record LRG_38 (CD3E) annotation updated
+# LRG record LRG_39 (CD3G) annotation updated
+# LRG record LRG_3 (COL3A1) annotation updated
+# LRG record LRG_40 (CD40) annotation updated
+# LRG record LRG_41 (CD59) annotation updated
+# LRG record LRG_42 (CD79A) annotation updated
+# LRG record LRG_43 (CD79B) annotation updated
+# LRG record LRG_44 (CD8A) annotation updated
+# LRG record LRG_45 (CEBPE) annotation updated
+# LRG record LRG_46 (CFD) annotation updated
+# LRG record LRG_47 (CFH) annotation updated
+# LRG record LRG_48 (CFI) annotation updated
+# LRG record LRG_49 (CIITA) annotation updated
+# LRG record LRG_4 (CRTAP) annotation updated
+# LRG record LRG_50 (CTSC) annotation updated
+# LRG record LRG_51 (CXCR4) annotation updated
+# LRG record LRG_52 (CYBA) annotation updated
+# LRG record LRG_53 (CYBB) annotation updated
+# LRG record LRG_54 (DCLRE1C) annotation updated
+# LRG record LRG_55 (DKC1) annotation updated
+# LRG record LRG_56 (DNMT3B) annotation updated
+# LRG record LRG_57 (ELANE) annotation updated
+# LRG record LRG_58 (FASLG) annotation updated
+# LRG record LRG_59 (FCGR1A) annotation updated
+# LRG record LRG_5 (LEPRE1) annotation updated
+# LRG record LRG_60 (FCGR3A) annotation updated
+# LRG record LRG_61 (FOXN1) annotation updated
+# LRG record LRG_62 (FOXP3) annotation updated
+# LRG record LRG_63 (GFI1) annotation updated
+# LRG record LRG_64 (HAX1) annotation updated
+# LRG record LRG_65 (ICOS) annotation updated
+# LRG record LRG_66 (IFNGR1) annotation updated
+# LRG record LRG_69 (IGLL1) annotation updated
+# LRG record LRG_6 (ATP1A2) annotation updated
+# LRG record LRG_70 (IKBKG) annotation updated
+# LRG record LRG_71 (IL12B) annotation updated
+# LRG record LRG_73 (IL2RA) annotation updated
+# LRG record LRG_74 (IL7R) annotation updated
+# LRG record LRG_75 (IRAK4) annotation updated
+# LRG record LRG_76 (ITGB2) annotation updated
+# LRG record LRG_77 (JAK3) annotation updated
+# LRG record LRG_79 (LIG4) annotation updated
+# LRG record LRG_7 (CACNA1A) annotation updated
+# LRG record LRG_80 (LRRC8A) annotation updated
+# LRG record LRG_81 (ROBLD3) annotation updated
+# LRG record LRG_83 (MLPH) annotation updated
+# LRG record LRG_84 (MPO) annotation updated
+# LRG record LRG_85 (MRE11A) annotation updated
+# LRG record LRG_86 (MYO5A) annotation updated
+# LRG record LRG_88 (NCF2) annotation updated
+# LRG record LRG_89 (NFKBIA) annotation updated
+# LRG record LRG_8 (SCN1A) annotation updated
+# LRG record LRG_90 (NHEJ1) annotation updated
+# LRG record LRG_91 (PNP) annotation updated
+# LRG record LRG_92 (NRAS) annotation updated
+# LRG record LRG_93 (ORAI1) annotation updated
+# LRG record LRG_94 (PRF1) annotation updated
+# LRG record LRG_96 (RAB27A) annotation updated
+# LRG record LRG_97 (RAC2) annotation updated
+# LRG record LRG_98 (RAG1) annotation updated
+# LRG record LRG_99 (RAG2) annotation updated
+# Pending LRG record LRG_104 (SBDS) annotation updated
+# Pending LRG record LRG_112 (STAT3) annotation updated
+# Pending LRG record LRG_11 (CDKN2A) annotation updated
+# Pending LRG record LRG_121 (TYK2) annotation updated
+# Pending LRG record LRG_131 (TAZ) annotation updated
+# Pending LRG record LRG_132 (ACTB) annotation updated
+# Pending LRG record LRG_133 (AK2) annotation updated
+# Pending LRG record LRG_134 (FAS) annotation updated
+# Pending LRG record LRG_135 (ATM) annotation updated
+# Pending LRG record LRG_136 (CFB) annotation updated
+# Pending LRG record LRG_137 (C4A) annotation updated
+# Pending LRG record LRG_138 (C4B) annotation updated
+# Pending LRG record LRG_139 (C8A) annotation updated
+# Pending LRG record LRG_140 (MS4A1) annotation updated
+# Pending LRG record LRG_141 (CD40LG) annotation updated
+# Pending LRG record LRG_142 (CD81) annotation updated
+# Pending LRG record LRG_143 (LYST) annotation updated
+# Pending LRG record LRG_144 (CSF3R) annotation updated
+# Pending LRG record LRG_145 (F12) annotation updated
+# Pending LRG record LRG_146 (FPR1) annotation updated
+# Pending LRG record LRG_147 (G6PC) annotation updated
+# Pending LRG record LRG_148 (G6PD) annotation updated
+# Pending LRG record LRG_149 (CFHR1) annotation updated
+# Pending LRG record LRG_14 (L1CAM) annotation updated
+# Pending LRG record LRG_150 (IL2RG) annotation updated
+# Pending LRG record LRG_151 (IL10RA) annotation updated
+# Pending LRG record LRG_152 (IL10RB) annotation updated
+# Pending LRG record LRG_153 (LCK) annotation updated
+# Pending LRG record LRG_154 (MBL2) annotation updated
+# Pending LRG record LRG_155 (CD46) annotation updated
+# Pending LRG record LRG_156 (MVK) annotation updated
+# Pending LRG record LRG_157 (MYD88) annotation updated
+# Pending LRG record LRG_158 (NBN) annotation updated
+# Pending LRG record LRG_159 (NCF4) annotation updated
+# Pending LRG record LRG_160 (PIGA) annotation updated
+# Pending LRG record LRG_161 (PMS2) annotation updated
+# Pending LRG record LRG_162 (PRKDC) annotation updated
+# Pending LRG record LRG_164 (STIM1) annotation updated
+# Pending LRG record LRG_165 (STXBP2) annotation updated
+# Pending LRG record LRG_166 (TAP1) annotation updated
+# Pending LRG record LRG_167 (TAP2) annotation updated
+# Pending LRG record LRG_168 (THBD) annotation updated
+# Pending LRG record LRG_169 (APOL1) annotation updated
+# Pending LRG record LRG_170 (AP3B1) annotation updated
+# Pending LRG record LRG_171 (FCN3) annotation updated
+# Pending LRG record LRG_172 (PSTPIP1) annotation updated
+# Pending LRG record LRG_173 (TTC37) annotation updated
+# Pending LRG record LRG_174 (LPIN2) annotation updated
+# Pending LRG record LRG_175 (CFHR3) annotation updated
+# Pending LRG record LRG_176 (CHD7) annotation updated
+# Pending LRG record LRG_177 (NOD2) annotation updated
+# Pending LRG record LRG_178 (CARD9) annotation updated
+# Pending LRG record LRG_179 (CLEC7A) annotation updated
+# Pending LRG record LRG_180 (FERMT3) annotation updated
+# Pending LRG record LRG_181 (NLRP12) annotation updated
+# Pending LRG record LRG_182 (G6PC3) annotation updated
+# Pending LRG record LRG_183 (SLC46A1) annotation updated
+# Pending LRG record LRG_184 (TNFRSF13C) annotation updated
+# Pending LRG record LRG_185 (RNF168) annotation updated
+# Pending LRG record LRG_186 (CSF2RA) annotation updated
+# Pending LRG record LRG_187 (SLC37A4) annotation updated
+# Pending LRG record LRG_188 (IL1RN) annotation updated
+# Pending LRG record LRG_189 (ITK) annotation updated
+# Pending LRG record LRG_190 (MEFV) annotation updated
+# Pending LRG record LRG_191 (PIK3CD) annotation updated
+# Pending LRG record LRG_192 (STAT5B) annotation updated
+# Pending LRG record LRG_193 (TNFRSF1A) annotation updated
+# Pending LRG record LRG_194 (TNFRSF11A) annotation updated
+# Pending LRG record LRG_195 (CORO1A) annotation updated
+# Pending LRG record LRG_196 (DOCK8) annotation updated
+# Pending LRG record LRG_197 (NLRP3) annotation updated
+# Pending LRG record LRG_198 (AGRN) annotation updated
+# Pending LRG record LRG_199 (DMD) annotation updated
+# Pending LRG record LRG_19 (XIAP) annotation updated
+# Pending LRG record LRG_200 (MSTN) annotation updated
+# Pending LRG record LRG_201 (MYOT) annotation updated
+# Pending LRG record LRG_202 (NEB) annotation updated
+# Pending LRG record LRG_203 (SGCA) annotation updated
+# Pending LRG record LRG_204 (SGCB) annotation updated
+# Pending LRG record LRG_205 (SGCD) annotation updated
+# Pending LRG record LRG_206 (SGCE) annotation updated
+# Pending LRG record LRG_207 (SGCG) annotation updated
+# Pending LRG record LRG_208 (SGCZ) annotation updated
+# Pending LRG record LRG_209 (SSPN) annotation updated
+# Pending LRG record LRG_20 (BLM) annotation updated
+# Pending LRG record LRG_210 (TCAP) annotation updated
+# Pending LRG record LRG_211 (TRIM32) annotation updated
+# Pending LRG record LRG_212 (ZMPSTE24) annotation updated
+# Pending LRG record LRG_213 (CFL2) annotation updated
+# Pending LRG record LRG_214 (NF1) annotation updated
+# Pending LRG record LRG_215 (EPCAM) annotation updated
+# Pending LRG record LRG_216 (MLH1) annotation updated
+# Pending LRG record LRG_217 (MLH3) annotation updated
+# Pending LRG record LRG_218 (MSH2) annotation updated
+# Pending LRG record LRG_219 (MSH6) annotation updated
+# Pending LRG record LRG_220 (MUTYH) annotation updated
+# Pending LRG record LRG_221 (PMS1) annotation updated
+# Pending LRG record LRG_222 (PSENEN) annotation updated
+# Pending LRG record LRG_223 (NCSTN) annotation updated
+# Pending LRG record LRG_224 (PSEN1) annotation updated
+# Pending LRG record LRG_225 (PSEN2) annotation updated
+# Pending LRG record LRG_226 (TBX1) annotation updated
+# Pending LRG record LRG_227 (CFHR5) annotation updated
+# Pending LRG record LRG_228 (FADD) annotation updated
+# Pending LRG record LRG_229 (TRAF3) annotation updated
+# Pending LRG record LRG_230 (COL4A3) annotation updated
+# Pending LRG record LRG_231 (COL4A4) annotation updated
+# Pending LRG record LRG_232 (COL4A5) annotation updated
+# Pending LRG record LRG_233 (COL4A6) annotation updated
+# Pending LRG record LRG_67 (IFNGR2) annotation updated
+# Pending LRG record LRG_68 (IGFBP3) annotation updated
+# Pending LRG record LRG_72 (IL12RB1) annotation updated
+# Pending LRG record LRG_78 (LIG1) annotation updated
+# Pending LRG record LRG_82 (MASP2) annotation updated
+# Pending LRG record LRG_87 (NCF1) annotation updated
+# Pending LRG record LRG_95 (PTPRC) annotation updated
