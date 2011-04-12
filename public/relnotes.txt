@@ -1,50 +1,65 @@
-LRG release 3.1.4.2 (11-Apr-2011)
+LRG release 3.2.5.1 (12-Apr-2011)
 
-There are 115 LRG entries
-There are 159 pending LRG entries
+There are 173 LRG entries
+There are 94 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_274 (LDLR) added
-# Pending LRG record LRG_275 (PCSK9) added
-# Pending LRG record LRG_276 (LDLRAP1) added
-# Pending LRG record LRG_273 (YARS) added
-# Pending LRG record LRG_234 (ARHGEF10) added
-# Pending LRG record LRG_235 (BSCL2) added
-# Pending LRG record LRG_236 (CTDP1) added
-# Pending LRG record LRG_237 (DCTN1) added
-# Pending LRG record LRG_238 (DNM2) added
-# Pending LRG record LRG_239 (EGR2) added
-# Pending LRG record LRG_240 (FGD4) added
-# Pending LRG record LRG_241 (FIG4) added
-# Pending LRG record LRG_242 (GAN) added
-# Pending LRG record LRG_243 (GARS) added
-# Pending LRG record LRG_244 (GDAP1) added
-# Pending LRG record LRG_245 (GJB1) added
-# Pending LRG record LRG_246 (HOXD10) added
-# Pending LRG record LRG_247 (WNK1) added
-# Pending LRG record LRG_248 (HSPB1) added
-# Pending LRG record LRG_249 (HSPB8) added
-# Pending LRG record LRG_250 (IGHMBP2) added
-# Pending LRG record LRG_251 (IKBKAP) added
-# Pending LRG record LRG_252 (KIF1B) added
-# Pending LRG record LRG_253 (LITAF) added
-# Pending LRG record LRG_254 (LMNA) added
-# Pending LRG record LRG_255 (MFN2) added
-# Pending LRG record LRG_256 (MPZ) added
-# Pending LRG record LRG_257 (MTMR2) added
-# Pending LRG record LRG_258 (NDRG1) added
-# Pending LRG record LRG_259 (NEFL) added
-# Pending LRG record LRG_260 (NGF) added
-# Pending LRG record LRG_261 (NTRK1) added
-# Pending LRG record LRG_262 (PLEKHG5) added
-# Pending LRG record LRG_263 (PMP22) added
-# Pending LRG record LRG_264 (PRPS1) added
-# Pending LRG record LRG_265 (PRX) added
-# Pending LRG record LRG_266 (RAB7A) added
-# Pending LRG record LRG_267 (SBF2) added
-# Pending LRG record LRG_268 (SETX) added
-# Pending LRG record LRG_269 (SH3TC2) added
-# Pending LRG record LRG_270 (SLC12A6) added
-# Pending LRG record LRG_271 (SOX10) added
-# Pending LRG record LRG_272 (SPTLC1) added
+# LRG record LRG_131 (TAZ) added
+# LRG record LRG_132 (ACTB) added
+# LRG record LRG_133 (AK2) added
+# LRG record LRG_135 (ATM) added
+# LRG record LRG_136 (CFB) added
+# LRG record LRG_137 (C4A) added
+# LRG record LRG_138 (C4B) added
+# LRG record LRG_139 (C8A) added
+# LRG record LRG_140 (MS4A1) added
+# LRG record LRG_141 (CD40LG) added
+# LRG record LRG_142 (CD81) added
+# LRG record LRG_143 (LYST) added
+# LRG record LRG_144 (CSF3R) added
+# LRG record LRG_145 (F12) added
+# LRG record LRG_146 (FPR1) added
+# LRG record LRG_147 (G6PC) added
+# LRG record LRG_148 (G6PD) added
+# LRG record LRG_149 (CFHR1) added
+# LRG record LRG_150 (IL2RG) added
+# LRG record LRG_151 (IL10RA) added
+# LRG record LRG_152 (IL10RB) added
+# LRG record LRG_154 (MBL2) added
+# LRG record LRG_155 (CD46) added
+# LRG record LRG_156 (MVK) added
+# LRG record LRG_157 (MYD88) added
+# LRG record LRG_158 (NBN) added
+# LRG record LRG_159 (NCF4) added
+# LRG record LRG_160 (PIGA) added
+# LRG record LRG_162 (PRKDC) added
+# LRG record LRG_164 (STIM1) added
+# LRG record LRG_165 (STXBP2) added
+# LRG record LRG_166 (TAP1) added
+# LRG record LRG_167 (TAP2) added
+# LRG record LRG_168 (THBD) added
+# LRG record LRG_169 (APOL1) added
+# LRG record LRG_170 (AP3B1) added
+# LRG record LRG_171 (FCN3) added
+# LRG record LRG_172 (PSTPIP1) added
+# LRG record LRG_173 (TTC37) added
+# LRG record LRG_174 (LPIN2) added
+# LRG record LRG_175 (CFHR3) added
+# LRG record LRG_176 (CHD7) added
+# LRG record LRG_177 (NOD2) added
+# LRG record LRG_178 (CARD9) added
+# LRG record LRG_179 (CLEC7A) added
+# LRG record LRG_180 (FERMT3) added
+# LRG record LRG_182 (G6PC3) added
+# LRG record LRG_183 (SLC46A1) added
+# LRG record LRG_184 (TNFRSF13C) added
+# LRG record LRG_187 (SLC37A4) added
+# LRG record LRG_188 (IL1RN) added
+# LRG record LRG_189 (ITK) added
+# LRG record LRG_190 (MEFV) added
+# LRG record LRG_193 (TNFRSF1A) added
+# LRG record LRG_194 (TNFRSF11A) added
+# LRG record LRG_195 (CORO1A) added
+# LRG record LRG_196 (DOCK8) added
+# LRG record LRG_197 (NLRP3) added
