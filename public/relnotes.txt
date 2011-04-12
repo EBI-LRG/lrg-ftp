@@ -1,11 +1,10 @@
 LRG release 3.2.5.1 (12-Apr-2011)
 
-There are 173 LRG entries
-There are 94 pending LRG entries
+There are 168 LRG entries
+There are 99 pending LRG entries
 
 ### Notes
 
-# LRG record LRG_131 (TAZ) added
 # LRG record LRG_132 (ACTB) added
 # LRG record LRG_133 (AK2) added
 # LRG record LRG_135 (ATM) added
@@ -16,7 +15,6 @@ There are 94 pending LRG entries
 # LRG record LRG_140 (MS4A1) added
 # LRG record LRG_141 (CD40LG) added
 # LRG record LRG_142 (CD81) added
-# LRG record LRG_143 (LYST) added
 # LRG record LRG_144 (CSF3R) added
 # LRG record LRG_145 (F12) added
 # LRG record LRG_146 (FPR1) added
@@ -36,11 +34,8 @@ There are 94 pending LRG entries
 # LRG record LRG_162 (PRKDC) added
 # LRG record LRG_164 (STIM1) added
 # LRG record LRG_165 (STXBP2) added
-# LRG record LRG_166 (TAP1) added
-# LRG record LRG_167 (TAP2) added
 # LRG record LRG_168 (THBD) added
 # LRG record LRG_169 (APOL1) added
-# LRG record LRG_170 (AP3B1) added
 # LRG record LRG_171 (FCN3) added
 # LRG record LRG_172 (PSTPIP1) added
 # LRG record LRG_173 (TTC37) added
