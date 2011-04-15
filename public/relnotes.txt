@@ -1,15 +1,9 @@
-LRG release 3.2.6.1 (13-Apr-2011)
+LRG release 3.2.6.2 (15-Apr-2011)
 
 There are 168 LRG entries
 There are 106 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_234 (ARHGEF10) added
-# Pending LRG record LRG_238 (DNM2) added
-# Pending LRG record LRG_240 (FGD4) added
-# Pending LRG record LRG_241 (FIG4) added
-# Pending LRG record LRG_247 (WNK1) added
-# Pending LRG record LRG_252 (KIF1B) added
-# Pending LRG record LRG_267 (SBF2) added
+# LRG record LRG_81 (LAMTOR2) updated
 
