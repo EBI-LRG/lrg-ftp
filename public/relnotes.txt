@@ -1,9 +1,15 @@
-LRG release 3.2.6.2 (15-Apr-2011)
+LRG release 3.3.6.1 (20-Apr-2011)
 
-There are 168 LRG entries
-There are 106 pending LRG entries
+There are 175 LRG entries
+There are 99 pending LRG entries
 
 ### Notes
 
-# LRG record LRG_81 (LAMTOR2) updated
 
+# LRG record for LRG_134 (FAS) added
+# LRG record for LRG_226 (TBX1) added
+# LRG record for LRG_227 (CFHR5) added
+# LRG record for LRG_228 (FADD) added
+# LRG record for LRG_229 (TRAF3) added
+# LRG record for LRG_275 (PCSK9) added
+# LRG record for LRG_276 (LDLRAP1) added
