@@ -1,8 +1,8 @@
-LRG release 3.4.1.1 (03-May-2011)
+LRG release 3.4.2.1 (10-May-2011)
 
 There are 176 LRG entries
-There are 103 pending LRG entries
+There are 104 pending LRG entries
 
 ### Notes
 
-# LRG record LRG_274 (LDLR) added
+# Pending LRG record LRG_283 (LEPR) added
