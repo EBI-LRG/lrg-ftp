@@ -1,9 +1,8 @@
-LRG release 3.5.4.1 (12-Jul-2011)
+LRG release 3.5.5.1 (27-Jul-2011)
 
 There are 177 LRG entries
-There are 117 pending LRG entries
+There are 118 pending LRG entries
 
 ### Notes
-# Pending LRG record LRG_279.xml (RNASEH2B) updated
-# Pending LRG record LRG_286 (COL7A1) added
-# Pending LRG record LRG_326 (ZBTB24) added
+
+# Pending LRG record LRG_296 (AXIN2) added
