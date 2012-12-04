@@ -1,8 +1,9 @@
-LRG release 3.5.5.1 (27-Jul-2011)
+LRG release 4.3.3.1 (03-Dec-2012)
 
-There are 177 LRG entries
-There are 118 pending LRG entries
+There are 251 LRG entries
+There are 328 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_296 (AXIN2) added
+# LRG_292 made public
+# LRG_293 made public
