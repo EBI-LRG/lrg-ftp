@@ -1,24 +1,12 @@
-LRG release 4.3.5.1 (18-Dec-2012)
+LRG release 4.3.7.1 (19-Dec-2012)
 
 There are 251 LRG entries
-There are 343 pending LRG entries
+There are 349 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_202 (NEB) added
-# Pending LRG record LRG_303 (CYP2D6) added
-# Pending LRG record LRG_350 (COLEC11) added
-# Pending LRG record LRG_360 (ATL1) added
-# Pending LRG record LRG_367 (KIF1A) added
-# Pending LRG record LRG_464 (ERCC5) added
-# Pending LRG record LRG_686 (B9D1) added
-# Pending LRG record LRG_687 (MKS1) added
-# Pending LRG record LRG_688 (TMEM67) added
-# Pending LRG record LRG_690 (PPT1) added
-# Pending LRG record LRG_692 (CLN5) added
-# Pending LRG record LRG_693 (NPHS1) added
-# Pending LRG record LRG_694 (CEP290) added
-# Pending LRG record LRG_697 (CC2D2A) added
-# Pending LRG record LRG_698 (TMEM216) added
-# Pending LRG record LRG_701 (POMGNT1) added
-# Pending LRG record LRG_702 (RS1) added
+# Pending LRG record LRG_689 (CLN3) added
+# Pending LRG record LRG_691 (CLN8) added
+# Pending LRG record LRG_695 (CLC7A7) added      
+# Pending LRG record LRG_696 (RPGRIP1L) added
+
