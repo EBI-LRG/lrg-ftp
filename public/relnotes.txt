@@ -1,12 +1,40 @@
-LRG release 4.3.7.1 (19-Dec-2012)
+LRG release 4.3.8.1 (8-Jan-2013)
 
 There are 251 LRG entries
-There are 349 pending LRG entries
+There are 350 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_689 (CLN3) added
-# Pending LRG record LRG_691 (CLN8) added
-# Pending LRG record LRG_695 (CLC7A7) added      
-# Pending LRG record LRG_696 (RPGRIP1L) added
-
+# Pending LRG record LRG_296 (AXIN2) updated
+# Pending LRG record LRG_297 (BARD1) updated
+# Pending LRG record LRG_298 (BMPR1A) updated
+# Pending LRG record LRG_299 (BRAF) updated
+# Pending LRG record LRG_300 (BRIP1) updated
+# Pending LRG record LRG_301 (CDH1) updated
+# Pending LRG record LRG_302 (CHEK2) updated
+# Pending LRG record LRG_303 (CYP2D6) updated
+# Pending LRG record LRG_304 (EGFR) updated
+# Pending LRG record LRG_305 (ERCC1) updated
+# Pending LRG record LRG_306 (FANCD2) updated
+# Pending LRG record LRG_307 (KIT) updated
+# Pending LRG record LRG_308 (PALB2) updated
+# Pending LRG record LRG_309 (PDGFRA) updated
+# Pending LRG record LRG_310 (PIK3CA) updated
+# Pending LRG record LRG_311 (PTEN) updated
+# Pending LRG record LRG_312 (RAD50) updated
+# Pending LRG record LRG_313 (RAD51) updated
+# Pending LRG record LRG_314 (RAD51C) updated
+# Pending LRG record LRG_315 (SDHA) updated
+# Pending LRG record LRG_316 (SDHB) updated
+# Pending LRG record LRG_317 (SDHC) updated
+# Pending LRG record LRG_318 (SMAD4) updated
+# Pending LRG record LRG_319 (STK11) updated
+# Pending LRG record LRG_320 (TLR4) updated
+# Pending LRG record LRG_321 (TP53) added
+# Pending LRG record LRG_322 (VHL) updated
+# Pending LRG record LRG_323 (XRCC2) updated
+# Pending LRG record LRG_324 (RRM1) updated
+# Pending LRG record LRG_325 (FLCN) updated
+# Pending LRG record LRG_9 (SDHD) updated
+# Pending LRG record LRG_486 (TSC1) updated
+# Pending LRG record LRG_487 (TSC2) updated
