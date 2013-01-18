@@ -1,4 +1,4 @@
-LRG release 5 (16-Jan-2013)
+LRG release 6 (18-Jan-2013)    
 # Schema version 1.7
 
 There are 299 LRG entries
@@ -6,53 +6,9 @@ There are 302 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_317 (SDHC) updated
-# Pending LRG record LRG_363 (FAM134B) is now public
-# Pending LRG record LRG_364 (FBLN5) is now public
-# Pending LRG record LRG_365 (HK1) is now public
-# Pending LRG record LRG_366 (KARS) is now public
-# Pending LRG record LRG_369 (SCN9A) is now public
-# Pending LRG record LRG_372 (TRPV4) is now public
-# Pending LRG record LRG_373 (LRSAM1) is now public
-# Pending LRG record LRG_374 (WIPF1) is now public
-# Pending LRG record LRG_375 (WRAP53) is now public
-# Pending LRG record LRG_376 (PLCG2) is now public
-# Pending LRG record LRG_377 (ABCC9) is now public
-# Pending LRG record LRG_378 (TNNC1) is now public
-# Pending LRG record LRG_379 (ANKRD1) is now public
-# Pending LRG record LRG_382 (RBM20) is now public
-# Pending LRG record LRG_383 (VCL) is now public
-# Pending LRG record LRG_389 (MYH6) is now public
-# Pending LRG record LRG_390 (PLN) is now public
-# Pending LRG record LRG_391 (TTN) updated
-# Pending LRG record LRG_392 (MYLK2) is now public
-# Pending LRG record LRG_394 (JPH2) is now public
-# Pending LRG record LRG_403 (BMP10) is now public
-# Pending LRG record LRG_404 (CASQ2) is now public
-# Pending LRG record LRG_405 (CHRM2) is now public
-# Pending LRG record LRG_406 (COX15) is now public
-# Pending LRG record LRG_408 (CTF1) is now public
-# Pending LRG record LRG_410 (MYPN) is now public
-# Pending LRG record LRG_411 (NEBL) is now public
-# Pending LRG record LRG_413 (RAF1) is now public
-# Pending LRG record LRG_414 (SRI) is now public
-# Pending LRG record LRG_415 (SYNM) is now public
-# Pending LRG record LRG_417 (TXNRD2) is now public
-# Pending LRG record LRG_419 (GPD1L) is now public
-# Pending LRG record LRG_421 (SCN3B) is now public
-# Pending LRG record LRG_422 (CALR3) is now public
-# Pending LRG record LRG_424 (ADORA3) is now public
-# Pending LRG record LRG_426 (MYOM1) is now public
-# Pending LRG record LRG_433 (LAMA4) is now public
-# Pending LRG record LRG_437 (CACNA2D1) is now public
-# Pending LRG record LRG_439 (KCNE3) is now public
-# Pending LRG record LRG_440 (CSRP3) is now public
-# Pending LRG record LRG_442 (NEXN) is now public
-# Pending LRG record LRG_444 (ILK) is now public
-# Pending LRG record LRG_445 (KCND3) is now public
-# Pending LRG record LRG_446 (TCF21) is now public
-# Pending LRG record LRG_447 (HMGCS2) is now public
-# Pending LRG record LRG_448 (ACAD8) is now public
-# Pending LRG record LRG_450 (HSD17B10) is now public
-# Pending LRG record LRG_451 (ACADSB) is now public
-# Pending LRG record LRG_452 (FOXD4) is now public
+# Pending LRG record LRG_704 (MEOX2) updated
+# Pending LRG record LRG_705 (CCDC78) updated
+# Pending LRG record LRG_706 (GTDC2) updated
+# Pending LRG record LRG_707 (IL12RB2) updated
+# Pending LRG record LRG_708 (MEOX1) updated
+# Pending LRG record LRG_709 (FOXL1) updated
