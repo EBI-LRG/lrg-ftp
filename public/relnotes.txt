@@ -1,4 +1,4 @@
-LRG release 19 (25-Feb-2013)
+LRG release 20 (26-Feb-2013)
 # Schema version 1.7
 
 There are 300 LRG entries
@@ -7,3 +7,8 @@ There are 309 pending LRG entries
 ### Notes
 
 # Pending LRG record LRG_14 (L1CAM) updated
+# Pending LRG record LRG_319 (STK11) updated
+# Pending LRG record LRG_325 (FLCN) updated
+# Pending LRG record LRG_367 (KIF1A) updated
+# Pending LRG record LRG_663 (CFTR) updated
+# Pending LRG record LRG_72 (IL12RB1) updated
