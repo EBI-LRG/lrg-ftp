@@ -1,4 +1,4 @@
-LRG release 23 (01-Mar-2013)
+LRG release 24 (01-Mar-2013)
 # Schema version 1.7
 
 There are 300 LRG entries
@@ -6,13 +6,13 @@ There are 322 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_318 (SMAD4) updated
-# Pending LRG record LRG_319 (STK11) updated
-# Pending LRG record LRG_325 (FLCN) updated
-# Pending LRG record LRG_343 (TERT) updated
-# Pending LRG record LRG_345 (NOP10) updated
-# Pending LRG record LRG_346 (NHP2) updated
-# Pending LRG record LRG_348 (CR2) updated
-# Pending LRG record LRG_715 (AVP) added
-# Pending LRG record LRG_716 (AVPR2) added
-# Pending LRG record LRG_717 (AQP2) added
+# Pending LRG record LRG_608 (CBL) updated
+# Pending LRG record LRG_610 (IDH1) updated
+# Pending LRG record LRG_611 (IDH2) updated
+# Pending LRG record LRG_612 (JAK2) updated
+# Pending LRG record LRG_616 (KDM6A) updated
+# Pending LRG record LRG_618 (ZRSR2) updated
+# Pending LRG record LRG_619 (SOCS3) updated
+# Pending LRG record LRG_621 (SH2B3) updated
+# Pending LRG record LRG_628 (BCORL1) updated
+# Pending LRG record LRG_630 (ASXL1) updated
