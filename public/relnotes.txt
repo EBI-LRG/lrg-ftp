@@ -1,4 +1,4 @@
-LRG release 28 (20-Mar-2013)
+LRG release 29 (25-Mar-2013)
 # Schema version 1.7
 
 There are 300 LRG entries
@@ -9,14 +9,28 @@ There are 333 pending LRG entries
 # Pending LRG record LRG_306 (FANCD2) updated
 # Pending LRG record LRG_321 (TP53) updated
 # Pending LRG record LRG_510 (MPL) updated
-# Pending LRG record LRG_609 (ETV6) added
-# Pending LRG record LRG_613 (MLL) added
-# Pending LRG record LRG_614 (PTPN11) added
-# Pending LRG record LRG_615 (U2AF1) added
-# Pending LRG record LRG_617 (SF1) added
-# Pending LRG record LRG_622 (SF3A1) added
-# Pending LRG record LRG_623 (U2AF2) added
-# Pending LRG record LRG_624 (SF3B1) added
-# Pending LRG record LRG_627 (BCOR) added
-# Pending LRG record LRG_629 (PHF6) added
-# Pending LRG record LRG_640 (SRSF2) added
+# Pending LRG record LRG_543 (ACVRL1) updated
+# Pending LRG record LRG_589 (ENG) updated
+# Pending LRG record LRG_608 (CBL) updated
+# Pending LRG record LRG_609 (ETV6) updated
+# Pending LRG record LRG_610 (IDH1) updated
+# Pending LRG record LRG_611 (IDH2) updated
+# Pending LRG record LRG_612 (JAK2) updated
+# Pending LRG record LRG_613 (MLL) updated
+# Pending LRG record LRG_614 (PTPN11) updated
+# Pending LRG record LRG_615 (U2AF1) updated
+# Pending LRG record LRG_616 (KDM6A) updated
+# Pending LRG record LRG_617 (SF1) updated
+# Pending LRG record LRG_618 (ZRSR2) updated
+# Pending LRG record LRG_619 (SOCS3) updated
+# Pending LRG record LRG_621 (SH2B3) updated
+# Pending LRG record LRG_622 (SF3A1) updated
+# Pending LRG record LRG_623 (U2AF2) updated
+# Pending LRG record LRG_624 (SF3B1) updated
+# Pending LRG record LRG_627 (BCOR) updated
+# Pending LRG record LRG_628 (BCORL1) updated
+# Pending LRG record LRG_629 (PHF6) updated
+# Pending LRG record LRG_630 (ASXL1) updated
+# Pending LRG record LRG_640 (SRSF2) updated
+# Pending LRG record LRG_703 (SMAD9) updated
+# Pending LRG record LRG_712 (BMPR2) updated
