@@ -1,29 +1,26 @@
-LRG release 38 (30-Apr-2013)
+LRG release 39 (09-May-2013)
 # Schema version 1.7
 
 There are 321 LRG entries
-There are 315 pending LRG entries
+There are 330 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_202 (NEB) is now public
-# Pending LRG record LRG_296 (AXIN2) is now public
-# Pending LRG record LRG_298 (BMPR1A) is now public
-# Pending LRG record LRG_301 (CDH1) is now public
-# Pending LRG record LRG_311 (PTEN) is now public
-# Pending LRG record LRG_318 (SMAD4) is now public
-# Pending LRG record LRG_319 (STK11) is now public
-# Pending LRG record LRG_321 (TP53) is now public
-# Pending LRG record LRG_345 (NOP10) is now public
-# Pending LRG record LRG_346 (NHP2) is now public
-# Pending LRG record LRG_348 (CR2) is now public
-# Pending LRG record LRG_349 (MASP1) is now public
-# Pending LRG record LRG_353 (MAGT1) is now public
-# Pending LRG record LRG_356 (IL17F) is now public
-# Pending LRG record LRG_357 (CD27) is now public
-# Pending LRG record LRG_358 (TICAM1) is now public
-# Pending LRG record LRG_359 (AARS) is now public
-# Pending LRG record LRG_361 (CCT5) is now public
-# Pending LRG record LRG_362 (DNMT1) is now public
-# Pending LRG record LRG_368 (MED25) is now public
-# Pending LRG record LRG_371 (SPTLC2) is now public
+# Pending LRG record LRG_310 (PIK3CA) updated
+# Pending LRG record LRG_391 (TTN) updated
+# Pending LRG record LRG_671 (NKX2-5) updated
+# Pending LRG record LRG_718 (OTX2) added
+# Pending LRG record LRG_719 (SOX2) added
+# Pending LRG record LRG_720 (PAX6) added
+# Pending LRG record LRG_721 (AKT1) added
+# Pending LRG record LRG_722 (DPYD) added
+# Pending LRG record LRG_723 (GSTP1) added
+# Pending LRG record LRG_724 (ERBB2) added
+# Pending LRG record LRG_725 (MAP2K1) added
+# Pending LRG record LRG_726 (MTHFR) added
+# Pending LRG record LRG_727 (TYMP) added
+# Pending LRG record LRG_728 (RBCK1) added
+# Pending LRG record LRG_729 (CARD11) added
+# Pending LRG record LRG_730 (IL36RN) added
+# Pending LRG record LRG_731 (IL21R) added
+# Pending LRG record LRG_732 (AP4E1) added
