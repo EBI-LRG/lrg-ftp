@@ -1,62 +1,11 @@
-LRG release 43 (22-May-2013)
+LRG release 44 (22-May-2013)
 # Schema version 1.7
 
 There are 321 LRG entries
-There are 331 pending LRG entries
+There are 332 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_215 (EPCAM) updated
-# Pending LRG record LRG_216 (MLH1) updated
-# Pending LRG record LRG_218 (MSH2) updated
-# Pending LRG record LRG_219 (MSH6) updated
-# Pending LRG record LRG_220 (MUTYH) updated
-# Pending LRG record LRG_300 (BRIP1) updated
-# Pending LRG record LRG_306 (FANCD2) updated
-# Pending LRG record LRG_307 (KIT) updated
-# Pending LRG record LRG_308 (PALB2) updated
-# Pending LRG record LRG_314 (RAD51C) updated
-# Pending LRG record LRG_343 (TERT) updated
-# Pending LRG record LRG_354 (ITCH) updated
-# Pending LRG record LRG_386 (MYBPC3) updated
-# Pending LRG record LRG_409 (LAMA2) updated
-# Pending LRG record LRG_454 (FKBP14) updated
-# Pending LRG record LRG_456 (CEBPA) updated
-# Pending LRG record LRG_457 (FLT3) updated
-# Pending LRG record LRG_458 (NPM1) updated
-# Pending LRG record LRG_459 (DNMT3A) updated
-# Pending LRG record LRG_460 (AIP) updated
-# Pending LRG record LRG_461 (ERCC2) updated
-# Pending LRG record LRG_462 (ERCC3) updated
-# Pending LRG record LRG_463 (ERCC4) updated
-# Pending LRG record LRG_464 (ERCC5) updated
-# Pending LRG record LRG_465 (ERCC6) updated
-# Pending LRG record LRG_466 (ERCC8) updated
-# Pending LRG record LRG_467 (DDB2) updated
-# Pending LRG record LRG_468 (MPLKIP) updated
-# Pending LRG record LRG_469 (GTF2H5) updated
-# Pending LRG record LRG_470 (POLH) updated
-# Pending LRG record LRG_471 (XPA) updated
-# Pending LRG record LRG_472 (XPC) updated
-# Pending LRG record LRG_473 (COL6A3) updated
-# Pending LRG record LRG_474 (DDB1) updated
-# Pending LRG record LRG_475 (COL6A1) updated
-# Pending LRG record LRG_476 (COL6A2) updated
-# Pending LRG record LRG_482 (RUNX1) updated
-# Pending LRG record LRG_492 (DICER1) updated
-# Pending LRG record LRG_493 (EXT1) updated
-# Pending LRG record LRG_495 (FANCA) updated
-# Pending LRG record LRG_496 (FANCB) updated
-# Pending LRG record LRG_497 (FANCC) updated
-# Pending LRG record LRG_498 (FANCE) updated
-# Pending LRG record LRG_499 (FANCG) updated
-# Pending LRG record LRG_500 (FANCI) updated
-# Pending LRG record LRG_501 (FANCL) updated
-# Pending LRG record LRG_502 (FANCM) updated
-# Pending LRG record LRG_503 (SLX4) updated
-# Pending LRG record LRG_510 (MPL) updated
-# Pending LRG record LRG_511 (NF2) updated
-# Pending LRG record LRG_522 (HNF1A) updated
-# Pending LRG record LRG_523 (TSHR) updated
-# Pending LRG record LRG_526 (CEP57) updated
-# Pending LRG record LRG_527 (FANCF) updated
+# LRG record LRG_3 (COL3A1) updated
+# LRG record LRG_7 (CACNA1A) updated
+# Pending LRG record LRG_734 (MTOR) added
