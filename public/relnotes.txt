@@ -1,4 +1,4 @@
-LRG release 46 (23-May-2013)
+LRG release 47 (23-May-2013)
 # Schema version 1.7
 
 There are 389 LRG entries
@@ -6,71 +6,13 @@ There are 264 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_215 (EPCAM) is now public
-# Pending LRG record LRG_216 (MLH1) is now public
-# Pending LRG record LRG_217 (MLH3) is now public
-# Pending LRG record LRG_218 (MSH2) is now public
-# Pending LRG record LRG_219 (MSH6) is now public
-# Pending LRG record LRG_220 (MUTYH) is now public
-# Pending LRG record LRG_221 (PMS1) is now public
-# Pending LRG record LRG_317 (SDHC) is now public
-# Pending LRG record LRG_325 (FLCN) is now public
-# Pending LRG record LRG_343 (TERT) is now public
-# Pending LRG record LRG_354 (ITCH) is now public
-# Pending LRG record LRG_380 (DES) is now public
-# Pending LRG record LRG_384 (MYH7) is now public
-# Pending LRG record LRG_385 (LDB3) is now public
-# Pending LRG record LRG_386 (MYBPC3) is now public
-# Pending LRG record LRG_388 (ACTC1) is now public
-# Pending LRG record LRG_393 (MYL2) is now public
-# Pending LRG record LRG_409 (LAMA2) is now public
-# Pending LRG record LRG_454 (FKBP14) is now public
-# Pending LRG record LRG_455 (ROGDI) is now public
-# Pending LRG record LRG_456 (CEBPA) is now public
-# Pending LRG record LRG_457 (FLT3) is now public
-# Pending LRG record LRG_458 (NPM1) is now public
-# Pending LRG record LRG_460 (AIP) is now public
-# Pending LRG record LRG_461 (ERCC2) is now public
-# Pending LRG record LRG_463 (ERCC4) is now public
-# Pending LRG record LRG_464 (ERCC5) is now public
-# Pending LRG record LRG_465 (ERCC6) is now public
-# Pending LRG record LRG_466 (ERCC8) is now public
-# Pending LRG record LRG_467 (DDB2) is now public
-# Pending LRG record LRG_469 (GTF2H5) is now public
-# Pending LRG record LRG_470 (POLH) is now public
-# Pending LRG record LRG_471 (XPA) is now public
-# Pending LRG record LRG_472 (XPC) is now public
-# Pending LRG record LRG_473 (COL6A3) is now public
-# Pending LRG record LRG_474 (DDB1) is now public
-# Pending LRG record LRG_475 (COL6A1) is now public
-# Pending LRG record LRG_476 (COL6A2) is now public
-# Pending LRG record LRG_482 (RUNX1) is now public
-# Pending LRG record LRG_488 (ALK) is now public
-# Pending LRG record LRG_490 (CDK4) is now public
-# Pending LRG record LRG_491 (CYLD) is now public
-# Pending LRG record LRG_492 (DICER1) is now public
-# Pending LRG record LRG_493 (EXT1) is now public
-# Pending LRG record LRG_495 (FANCA) is now public
-# Pending LRG record LRG_496 (FANCB) is now public
-# Pending LRG record LRG_497 (FANCC) is now public
-# Pending LRG record LRG_498 (FANCE) is now public
-# Pending LRG record LRG_499 (FANCG) is now public
-# Pending LRG record LRG_500 (FANCI) is now public
-# Pending LRG record LRG_502 (FANCM) is now public
-# Pending LRG record LRG_503 (SLX4) is now public
-# Pending LRG record LRG_504 (FH) is now public
-# Pending LRG record LRG_505 (GPC3) is now public
-# Pending LRG record LRG_507 (CDC73) is now public
-# Pending LRG record LRG_511 (NF2) is now public
-# Pending LRG record LRG_512 (NSD1) is now public
-# Pending LRG record LRG_513 (PHOX2B) is now public
-# Pending LRG record LRG_517 (RB1) is now public
-# Pending LRG record LRG_519 (SDHAF2) is now public
-# Pending LRG record LRG_520 (SMARCB1) is now public
-# Pending LRG record LRG_521 (SUFU) is now public
-# Pending LRG record LRG_522 (HNF1A) is now public
-# Pending LRG record LRG_523 (TSHR) is now public
-# Pending LRG record LRG_524 (WRN) is now public
-# Pending LRG record LRG_526 (CEP57) is now public
-# Pending LRG record LRG_527 (FANCF) is now public
-# Pending LRG record LRG_535 (STK4) is now public
+# Pending LRG record LRG_163 (RMRP) updated
+# Pending LRG record LRG_170 (AP3B1) updated
+# Pending LRG record LRG_279 (RNASEH2B) updated
+# Pending LRG record LRG_280 (RNASEH2C) updated
+# Pending LRG record LRG_350 (COLEC11) updated
+# Pending LRG record LRG_352 (USB1) updated
+# Pending LRG record LRG_485 (CSTB) updated
+# Pending LRG record LRG_487 (TSC2) updated
+# Pending LRG record LRG_538 (KERA) updated
+# Pending LRG record LRG_631 (TREM2) updated
