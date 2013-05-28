@@ -1,4 +1,4 @@
-LRG release 48 (23-May-2013)
+LRG release 49 (28-May-2013)
 # Schema version 1.7
 
 There are 392 LRG entries
@@ -6,6 +6,35 @@ There are 261 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_350 (COLEC11) is now public
-# Pending LRG record LRG_352 (USB1) is now public
-# Pending LRG record LRG_510 (MPL) is now public
+# LRG record LRG_218 (MSH2) updated
+# LRG record LRG_219 (MSH6) updated
+# LRG record LRG_311 (PTEN) updated
+# Pending LRG record LRG_315 (SDHA) updated
+# Pending LRG record LRG_316 (SDHB) updated
+# LRG record LRG_317 (SDHC) updated
+# LRG record LRG_504 (FH) updated
+# Pending LRG record LRG_536 (FSHR) updated
+# Pending LRG record LRG_537 (AMT) updated
+# Pending LRG record LRG_538 (KERA) updated
+# Pending LRG record LRG_539 (BCS1L) updated
+# Pending LRG record LRG_540 (CUBN) updated
+# Pending LRG record LRG_541 (GCSH) updated
+# Pending LRG record LRG_607 (TYROBP) updated
+# Pending LRG record LRG_631 (TREM2) updated
+# Pending LRG record LRG_642 (AMN) updated
+# Pending LRG record LRG_643 (GLDC) updated
+# Pending LRG record LRG_686 (B9D1) updated
+# Pending LRG record LRG_687 (MKS1) updated
+# Pending LRG record LRG_688 (TMEM67) updated
+# Pending LRG record LRG_689 (CLN3) updated
+# Pending LRG record LRG_690 (PPT1) updated
+# Pending LRG record LRG_691 (CLN8) updated
+# Pending LRG record LRG_692 (CLN5) updated
+# Pending LRG record LRG_693 (NPHS1) updated
+# Pending LRG record LRG_694 (CEP290) updated
+# Pending LRG record LRG_695 (SLC7A7) updated
+# Pending LRG record LRG_696 (RPGRIP1L) updated
+# Pending LRG record LRG_697 (CC2D2A) updated
+# Pending LRG record LRG_698 (TMEM216) updated
+# Pending LRG record LRG_702 (RS1) updated
+# Pending LRG record LRG_9 (SDHD) updated
