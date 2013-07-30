@@ -1,41 +1,16 @@
-LRG release 69 (29-Jul-2013)
+LRG release 70 (30-Jul-2013)
 # Schema version 1.7
 
 There are 393 LRG entries
-There are 291 pending LRG entries
+There are 292 pending LRG entries
 
 ### Notes
 
+# LRG record LRG_1 (COL1A1) updated
 # LRG record LRG_2 (COL1A2) updated
 # LRG record LRG_3 (COL3A1) updated
-# Pending LRG record LRG_486 (TSC1) updated
-# Pending LRG record LRG_514 (PRKAR1A) updated
-# Pending LRG record LRG_672 (GLA) updated
-# Pending LRG record LRG_725 (MAP2K1) updated
-# Pending LRG record LRG_739 (FHL1) added
-# Pending LRG record LRG_741 (ALMS1) added
-# Pending LRG record LRG_742 (BAG3) added
-# Pending LRG record LRG_743 (DNAJC19) added
-# Pending LRG record LRG_744 (DOLK) added
-# Pending LRG record LRG_745 (EMD) added
-# Pending LRG record LRG_746 (GATAD1) added
-# Pending LRG record LRG_747 (HADHA) added
-# Pending LRG record LRG_748 (HFE) updated
-# Pending LRG record LRG_749 (LAMP2) added
-# Pending LRG record LRG_750 (MAP2K2) added
-# Pending LRG record LRG_751 (NPPA) added
-# Pending LRG record LRG_752 (PDLIM3) added
-# Pending LRG record LRG_753 (SHOC2) updated
-# Pending LRG record LRG_754 (SOS1) added
-# Pending LRG record LRG_755 (TBX20) added
-# Pending LRG record LRG_756 (DTNA) added
-# Pending LRG record LRG_757 (TRIM63) added
-# Pending LRG record LRG_758 (KLF10) added
-# Pending LRG record LRG_759 (MIB1) updated
-# Pending LRG record LRG_760 (MURC) added
-# Pending LRG record LRG_761 (FKRP) updated
-# Pending LRG record LRG_762 (FMR1) added
-# Pending LRG record LRG_763 (HTT) added
-# Pending LRG record LRG_764 (MECP2) updated
-# Pending LRG record LRG_765 (POLG) added
-# Pending LRG record LRG_769 (ABL1) updated
+# Pending LRG record LRG_494 (EXT2) added
+# Pending LRG record LRG_543 (ACVRL1) updated
+# Pending LRG record LRG_589 (ENG) updated
+# Pending LRG record LRG_703 (SMAD9) updated
+# Pending LRG record LRG_712 (BMPR2) updated
