@@ -1,39 +1,89 @@
 
-#LRG.rnc version 1.7 Release notes   2012-07-31
-##################################
+==================================================
+> LRG.rnc version 1.8 Release notes   2013-08-28 <
+==================================================
 
-FIXED_ANNOTATION section:
+# FIXED_ANNOTATION section:
+
+- New attribute "label" in the "exon" tags, to store the specific LRG number of each exon.
+
+- New optional tag "hgnc_id" which can contains the HGNC identifier corresponding to the LRG gene name.
+
+- Change the pattern of the LRG transcript and protein coordinate systems (i.e. the attribute "coord_system" in the tag "coordinates") 
+  by removing the character "_" between the LRG name and the transcript and protein name, e.g.:
+    - LRG_1t1 instead of LRG_1_t1
+    - LRG_1p1 instead of LRG_1_p1
+
+
+
+# UPDATABLE_ANNOTATION section:
+
+- Changes for the tag "symbol":
+    - Now, only one tag "symbol" is allowed per "gene"
+    - The symbol name has been moved from the content of the tag "symbol" to a new attribute "name".
+    - The tag "synonym" (0 to many) has been added as a child of the tag "symbol".
+    - Moved up the tag "symbol" at the top position in the tag "gene".
+
+- Added optional tags "url" and "comment" in both tags "other_exon_naming" and "alternate_amino_acid_numbering"
+
+- Remove the tag "comment" in the tag "fixed_transcript_annotation" (i.e. moved into "other_exon_naming" and "alternate_amino_acid_numbering").
+
+- The "other_exon_naming" and "alternate_amino_acid_numbering" data are now stored exclusively in the "Community" annotation set.
+  If there is no data for at least one of these 2 tags, there won't be a "Community" annotation set for the LRG.
+
+
+
+==================================================
+> LRG.rnc version 1.7 Release notes   2012-07-31 <
+==================================================
+
+## FIXED_ANNOTATION section:
 
 - Added sequence_source which contains the accession number of the RefSeqGene with exact alignment to the LRG
+
 - The translation of multiple protein products from a single transcript is now supported
+
 - The tag <translation_exception> has been added. This tag will contain information on non-canonical codon translation and read-through codons. This replaces elements 'selenocysteine' and 'pyrrolysine'
 
-UPDATABLE_ANNOTATION section:
+==== Patched the "2012-10-01" ====
+- Add an optional "comment" tag in the fixed annotation section
+
+==== Patched the "2013-03-27" ====
+- Add an optional "comment" tag for transcript
+
+
+## UPDATABLE_ANNOTATION section:
 
 - Added mapping information for all transcripts encoded by the gene specified in <lrg_locus>. The mapping is by sequence alignment and includes information on differences between the transcript and LRG.
+
 - Removed most_recent attribute
+
  
 
-# LRG.rnc version 1.6 Release notes  2010-03-17
-###################################
-
-FIXED_ANNOTATION section:
+==================================================
+>  LRG.rnc version 1.6 Release notes  2010-03-17 <
+==================================================
+## FIXED_ANNOTATION section:
 
 - Required initial exon are now followed by optional intron-exon blocks
-- Specification of selenocysteine codons are now done as elements below coding_region 
-element
+
+- Specification of selenocysteine codons are now done as elements below coding_region element
+
 - Added support for pyrrolysine codon
 
-UPDATABLE_ANNOTATION section:
+## UPDATABLE_ANNOTATION section:
 
 - Added Rfam, miRBase and pseudogene.org to list of allowed xref databases
+
 - Re-arranged schema to be more modular
 
 
-# LRG.rnc version 1.5 Release notes
-###################################
 
-UPDATABLE_ANNOTATION section:
+=====================================
+> LRG.rnc version 1.5 Release notes <
+=====================================
+
+## UPDATABLE_ANNOTATION section:
 
 - most_recent attribute, indicating if the assembly is the most recent available,
   added to mapping element
@@ -49,24 +99,33 @@ UPDATABLE_ANNOTATION section:
 
 - features element is now optional
 
-# LRG.rnc version 1.4 Release notes
-###################################
 
-FIXED_ANNOTATION section:
+
+=====================================
+> LRG.rnc version 1.4 Release notes <
+=====================================
+
+## FIXED_ANNOTATION section:
 
 - exons being followed by an intron now has an element denoting intron phase
 
-# LRG.rnc version 1.3 Release notes
-###################################
 
-FIXED_ANNOTATION section:
+
+=====================================
+> LRG.rnc version 1.3 Release notes <
+=====================================
+
+## FIXED_ANNOTATION section:
 
 - minor modification of intron phase representation
 
-# LRG.rnc version 1.2 Release notes
-###################################
 
-FIXED_ANNOTATION section:
+
+=====================================
+> LRG.rnc version 1.2 Release notes <
+=====================================
+
+## FIXED_ANNOTATION section:
 
 - multiple contacts now permitted in source section.
 
@@ -92,8 +151,7 @@ FIXED_ANNOTATION section:
   of the exon/intron boundary.
 
 
-
-UPDATABLE_ANNOTATION section:
+## UPDATABLE_ANNOTATION section:
 
 - now contains one or more annotation_set elements to allow for sets of
   annotation from multiple sources (e.g. NCBI, EBI).
