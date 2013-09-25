@@ -1,3 +1,19 @@
+
+#LRG.rnc version 1.7 Release notes   2012-07-31
+##################################
+
+FIXED_ANNOTATION section:
+
+- Added sequence_source which contains the accession number of the RefSeqGene with exact alignment to the LRG
+- The translation of multiple protein products from a single transcript is now supported
+- The tag <translation_exception> has been added. This tag will contain information on non-canonical codon translation and read-through codons. This replaces elements 'selenocysteine' and 'pyrrolysine'
+
+UPDATABLE_ANNOTATION section:
+
+- Added mapping information for all transcripts encoded by the gene specified in <lrg_locus>. The mapping is by sequence alignment and includes information on differences between the transcript and LRG.
+- Removed most_recent attribute
+ 
+
 # LRG.rnc version 1.6 Release notes  2010-03-17
 ###################################
 
