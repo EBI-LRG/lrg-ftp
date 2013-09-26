@@ -15,7 +15,6 @@
     - LRG_1p1 instead of LRG_1_p1
 
 
-
 # UPDATABLE_ANNOTATION section:
 
 - Changes for the tag "symbol":
