@@ -1,4 +1,4 @@
-LRG release 98 (30-Sep-2013)
+LRG release 99 (07-Oct-2013)
 # Schema version 1.8
 
 There are 401 LRG entries
@@ -6,7 +6,9 @@ There are 304 pending LRG entries
 
 ### Notes
 
-# LRG record LRG_162 (PRKDC) updated
-# LRG record LRG_311 (PTEN) updated
-# LRG record LRG_415 (SYNM) updated
-# LRG record LRG_93 (ORAI1) updated
+# LRG record LRG_136 (CFB) updated
+# Pending LRG record LRG_167 (TAP2) updated
+# Pending LRG record LRG_481 (ITGB3) updated
+# Pending LRG record LRG_689 (CLN3) updated
+# Pending LRG record LRG_82 (MASP) updated
+# Pending LRG record LRG_9 (SDHD) updated
