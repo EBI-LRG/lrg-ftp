@@ -1,8 +1,8 @@
-LRG release 103 (18-Oct-2013)
+LRG release 104 (20-Oct-2013)
 # Schema version 1.8
 
 There are 411 LRG entries
-There are 299 pending LRG entries
+There are 298 pending LRG entries
 
 ### Notes
 
