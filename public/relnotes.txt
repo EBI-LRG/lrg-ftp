@@ -1,9 +1,10 @@
-LRG release 108 (15-Nov-2013)
+LRG release 109 (18-Nov-2013)
 # Schema version 1.8
 
-There are 411 LRG entries
-There are 298 pending LRG entries
+There are 413 LRG entries
+There are 296 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_483 (HNF4A) updated
+# Pending LRG record LRG_340 (DHCR7) is now public
+# Pending LRG record LRG_449 (AUH) is now public
