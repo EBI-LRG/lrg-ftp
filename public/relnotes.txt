@@ -1,4 +1,4 @@
-LRG release 118 (06-Dec-2013)
+LRG release 119 (10-Dec-2013)
 # Schema version 1.8
 
 There are 418 LRG entries
@@ -6,29 +6,8 @@ There are 294 pending LRG entries
 
 ### Notes
 
-# LRG record LRG_104 (SBDS) updated
-# LRG record LRG_112 (STAT3) updated
-# LRG record LRG_121 (TYK2) updated
-# Pending LRG record LRG_131 (TAZ) updated
-# Pending LRG record LRG_143 (LYST) updated
-# LRG record LRG_163 (RMRP) updated
-# Pending LRG record LRG_166 (TAP1) updated
-# Pending LRG record LRG_167 (TAP2) updated
-# LRG record LRG_170 (AP3B1) updated
-# LRG record LRG_19 (XIAP) updated
-# LRG record LRG_192 (STAT5B) updated
-# LRG record LRG_20 (BLM) updated
-# LRG record LRG_335 (ELF4) updated
-# Pending LRG record LRG_453 (PIK3R1) updated
-# LRG record LRG_67 (IFNGR2) updated
-# Pending LRG record LRG_671 (NKX2-5) updated
-# Pending LRG record LRG_728 (RBCK1) updated
-# Pending LRG record LRG_729 (CARD11) updated
-# Pending LRG record LRG_730 (IL36RN) updated
-# Pending LRG record LRG_731 (IL21R) updated
-# Pending LRG record LRG_732 (AP4E1) updated
-# Pending LRG record LRG_735 (RPSA) updated
-# Pending LRG record LRG_736 (RHOH) updated
-# LRG record LRG_78 (LIG1) updated
-# Pending LRG record LRG_82 (MASP2) updated
-# Pending LRG record LRG_87 (NCF1) updated
+# Pending LRG record LRG_640 (SRSF2) updated
+# Pending LRG record LRG_642 (AMN) updated
+# Pending LRG record LRG_643 (GLDC) updated
+# Pending LRG record LRG_687 (MKS1) updated
+# Pending LRG record LRG_698 (TMEM216) updated
