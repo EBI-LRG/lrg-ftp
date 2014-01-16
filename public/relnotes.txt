@@ -1,9 +1,49 @@
-LRG release 112 (27-Nov-2013)
+LRG release 124 (18-Dec-2013)
 # Schema version 1.8
 
-There are 418 LRG entries
-There are 291 pending LRG entries
+There are 425 LRG entries
+There are 290 pending LRG entries
 
 ### Notes
 
-# LRG record LRG_334 (CACNA1C) updated
+# Pending LRG record LRG_278 (RNASEH2A) is now public
+# Pending LRG record LRG_279 (RNASEH2B) is now public
+# Pending LRG record LRG_280 (RNASEH2C) is now public
+# Pending LRG record LRG_281 (SAMHD1) is now public
+# Pending LRG record LRG_341 (UNC119) is now public
+# Pending LRG record LRG_347 (TERC) is now public
+# Pending LRG record LRG_355 (IL17RA) is now public
+# Pending LRG record LRG_484 (GLE1) updated
+# Pending LRG record LRG_485 (CSTB) updated
+# Pending LRG record LRG_536 (FSHR) updated
+# Pending LRG record LRG_537 (AMT) updated
+# Pending LRG record LRG_538 (KERA) updated
+# Pending LRG record LRG_539 (BCS1L) updated
+# Pending LRG record LRG_540 (CUBN) updated
+# Pending LRG record LRG_541 (GCSH) updated
+# Pending LRG record LRG_607 (TYROBP) updated
+# Pending LRG record LRG_631 (TREM2) updated
+# Pending LRG record LRG_642 (AMN) updated
+# Pending LRG record LRG_643 (GLDC) updated
+# Pending LRG record LRG_683 (SLC26A3) updated
+# Pending LRG record LRG_684 (SLC26A2) updated
+# Pending LRG record LRG_685 (OAT) updated
+# Pending LRG record LRG_686 (B9D1) updated
+# Pending LRG record LRG_687 (MKS1) updated
+# Pending LRG record LRG_688 (TMEM67) updated
+# Pending LRG record LRG_689 (CLN3) updated
+# Pending LRG record LRG_690 (PPT1) updated
+# Pending LRG record LRG_691 (CLN8) updated
+# Pending LRG record LRG_692 (CLN5) updated
+# Pending LRG record LRG_693 (NPHS1) updated
+# Pending LRG record LRG_694 (CEP290) updated
+# Pending LRG record LRG_695 (SLC7A7) updated
+# Pending LRG record LRG_696 (RPGRIP1L) updated
+# Pending LRG record LRG_697 (CC2D2A) updated
+# Pending LRG record LRG_698 (TMEM216) updated
+# Pending LRG record LRG_699 (CHM) updated
+# Pending LRG record LRG_700 (CLRN1) updated
+# Pending LRG record LRG_701 (POMGNT1) updated
+# Pending LRG record LRG_702 (RS1) updated
+# Pending LRG record LRG_791 (HAMP) added
+
