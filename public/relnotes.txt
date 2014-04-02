@@ -1,9 +1,9 @@
-LRG release 138 (02-Apr-2014)
+LRG release 139 (02-Apr-2014)
 # Schema version 1.8
 
-There are 437 LRG entries
-There are 303 pending LRG entries
+There are 438 LRG entries
+There are 302 pending LRG entries
 
 ### Notes
 
-# LRG record LRG_321 (TP53) updated
+# Pending LRG record LRG_501 (FANCL) is now public
