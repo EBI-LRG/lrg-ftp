@@ -1,9 +1,28 @@
-LRG release 139 (02-Apr-2014)
+LRG release 142 (09-Apr-2014)
 # Schema version 1.8
 
-There are 438 LRG entries
-There are 302 pending LRG entries
+There are 477 LRG entries
+There are 266 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_501 (FANCL) is now public
+# Pending LRG record LRG_395 (MYL3) is now public
+# Pending LRG record LRG_396 (MYOZ2) is now public
+# Pending LRG record LRG_397 (DSG2) is now public
+# Pending LRG record LRG_398 (PKP2) is now public
+# Pending LRG record LRG_399 (TGFB3) is now public
+# Pending LRG record LRG_494 (EXT2) is now public
+# Pending LRG record LRG_514 (PRKAR1A) is now public
+# Pending LRG record LRG_515 (PTCH1) is now public
+# Pending LRG record LRG_516 (RAD51D) is now public
+# Pending LRG record LRG_518 (RET) is now public
+# Pending LRG record LRG_525 (WT1) is now public
+# Pending LRG record LRG_528 (TMEM127) is now public
+# Pending LRG record LRG_530 (MAX) is now public
+# Pending LRG record LRG_532 (RHBDF2) is now public
+# Pending LRG record LRG_533 (CDKN1C) is now public
+# Pending LRG record LRG_534 (DIS3L2) is now public
+# Pending LRG record LRG_662 (MET) is now public
+# Pending LRG record LRG_770 (PPM1D) is now public
+# Pending LRG record LRG_771 (HOXB13) is now public
+# Pending LRG record LRG_776 (MITF) is now public
