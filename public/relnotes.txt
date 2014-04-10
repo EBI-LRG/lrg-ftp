@@ -1,9 +1,9 @@
-LRG release 143 (09-Apr-2014)
+LRG release 144 (10-Apr-2014)
 # Schema version 1.8
 
-There are 477 LRG entries
-There are 266 pending LRG entries
+There are 478 LRG entries
+There are 265 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_531 (EZH2) updated
+# Pending LRG record LRG_531 (EZH2) is now public
