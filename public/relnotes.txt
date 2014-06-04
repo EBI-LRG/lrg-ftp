@@ -1,4 +1,4 @@
-LRG release 154 (16-May-2014)
+LRG release 155 (04-Jun-2014)
 # Schema version 1.8
 
 There are 506 LRG entries
@@ -6,26 +6,19 @@ There are 250 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_299(BRAF) is now public
-# Pending LRG record LRG_309(PDGFRA) is now public
-# Pending LRG record LRG_485(CSTB) is now public
-# Pending LRG record LRG_537(AMT) is now public
-# Pending LRG record LRG_539(BCS1L) is now public
-# Pending LRG record LRG_607(TYROBP) is now public
-# Pending LRG record LRG_608(CBL) is now public
-# Pending LRG record LRG_610(IDH1) is now public
-# Pending LRG record LRG_612(JAK2) is now public
-# Pending LRG record LRG_615(U2AF1) is now public
-# Pending LRG record LRG_618(ZRSR2) is now public
-# Pending LRG record LRG_623(U2AF2) is now public
-# Pending LRG record LRG_631(TREM2) is now public
-# Pending LRG record LRG_676(SMN1) is now public
-# Pending LRG record LRG_683(SLC26A3) is now public
-# Pending LRG record LRG_684(SLC26A2) is now public
-# Pending LRG record LRG_685(OAT) is now public
-# Pending LRG record LRG_690(PPT1) is now public
-# Pending LRG record LRG_700(CLRN1) is now public
-# Pending LRG record LRG_722(DPYD) is now public
-# Pending LRG record LRG_733(UGT1A1) is now public
-# Pending LRG record LRG_734(MTOR) is now public
-# Pending LRG record LRG_787(GFPT1) is now public
+# LRG record LRG_293(BRCA2) updated
+# LRG record LRG_300(BRIP1) updated
+# Pending LRG record LRG_306(FANCD2) updated
+# LRG record LRG_308(PALB2) updated
+# Pending LRG record LRG_314(RAD51C) updated
+# LRG record LRG_463(ERCC4) updated
+# LRG record LRG_495(FANCA) updated
+# LRG record LRG_496(FANCB) updated
+# LRG record LRG_497(FANCC) updated
+# LRG record LRG_498(FANCE) updated
+# LRG record LRG_499(FANCG) updated
+# LRG record LRG_500(FANCI) updated
+# LRG record LRG_501(FANCL) updated
+# LRG record LRG_502(FANCM) updated
+# LRG record LRG_503(SLX4) updated
+# LRG record LRG_527(FANCF) updated
