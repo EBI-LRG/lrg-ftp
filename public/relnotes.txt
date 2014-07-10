@@ -1,9 +1,15 @@
-LRG release 166 (10-Jul-2014)
+LRG release 167 (10-Jul-2014)
 # Schema version 1.8
 
-There are 506 LRG entries
-There are 275 pending LRG entries
+There are 512 LRG entries
+There are 269 pending LRG entries
 
 ### Notes
 
 # Pending LRG record LRG_303(CYP2D6) updated
+# Pending LRG record LRG_416(TTR) is now public
+# Pending LRG record LRG_423(DSP) is now public
+# Pending LRG record LRG_432(TNNI3) is now public
+# Pending LRG record LRG_434(FKTN) is now public
+# Pending LRG record LRG_435(TMEM43) is now public
+# Pending LRG record LRG_443(TMPO) is now public
