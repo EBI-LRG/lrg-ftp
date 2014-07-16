@@ -1,38 +1,12 @@
-LRG release 170 (15-Jul-2014)
+LRG release 171 (16-Jul-2014)
 # Schema version 1.8
 
-There are 512 LRG entries
-There are 269 pending LRG entries
+There are 516 LRG entries
+There are 265 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_206(SGCE) updated
-# Pending LRG record LRG_222(PSENEN) updated
-# Pending LRG record LRG_223(NCSTN) updated
-# Pending LRG record LRG_224(PSEN1) updated
-# Pending LRG record LRG_225(PSEN2) updated
-# Pending LRG record LRG_431(TNNT2) updated
-# Pending LRG record LRG_704 has been moved to stalled
-# Pending LRG record LRG_705 has been moved to stalled
-# Pending LRG record LRG_706 has been moved to stalled
-# Pending LRG record LRG_707 has been moved to stalled
-# Pending LRG record LRG_708 has been moved to stalled
-# Pending LRG record LRG_709 has been moved to stalled
-# Pending LRG record LRG_710 has been moved to stalled
-# Pending LRG record LRG_711 has been moved to stalled
-# Pending LRG record LRG_739(FHL1) updated
-# Pending LRG record LRG_745(EMD) updated
-# Pending LRG record LRG_756(DTNA) updated
-# Pending LRG record LRG_761(FKRP) updated
-# Pending LRG record LRG_839(MTM1) updated
-# Pending LRG record LRG_842(POMT1) updated
-# Pending LRG record LRG_844(POMT2) updated
-# Pending LRG record LRG_845(DYSF) updated
-# Pending LRG record LRG_847(PIN1) updated
-# Pending LRG record LRG_848(GK) updated
-# Pending LRG record LRG_849(CAPN3) updated
-# Pending LRG record LRG_850(TNNT3) updated
-# Pending LRG record LRG_851(TNNI2) updated
-# Pending LRG record LRG_854(DAG1) updated
-# Pending LRG record LRG_857(SEPN1) updated
-# Pending LRG record LRG_860(VMA21) updated
+# Pending LRG record LRG_304(EGFR) is now public
+# Pending LRG record LRG_306(FANCD2) is now public
+# Pending LRG record LRG_314(RAD51C) is now public
+# Pending LRG record LRG_529(BAP1) is now public
