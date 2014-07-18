@@ -1,12 +1,62 @@
-LRG release 171 (16-Jul-2014)
+LRG release 172 (18-Jul-2014)
 # Schema version 1.8
 
 There are 516 LRG entries
-There are 265 pending LRG entries
+There are 237 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_304(EGFR) is now public
-# Pending LRG record LRG_306(FANCD2) is now public
-# Pending LRG record LRG_314(RAD51C) is now public
-# Pending LRG record LRG_529(BAP1) is now public
+# Pending LRG record LRG_235(BSCL2) updated
+# Pending LRG record LRG_237(DCTN1) updated
+# Pending LRG record LRG_238(DNM2) updated
+# Pending LRG record LRG_240(FGD4) updated
+# Pending LRG record LRG_244(GDAP1) updated
+# Pending LRG record LRG_247(WNK1) updated
+# Pending LRG record LRG_259(NEFL) updated
+# Pending LRG record LRG_387(TPM1) updated
+# Pending LRG record LRG_407(CRYAB) updated
+# Pending LRG record LRG_427(SYNE1) updated
+# Pending LRG record LRG_679(TNNT1) updated
+# Pending LRG record LRG_680(TPM2) updated
+# Pending LRG record LRG_681(TPM3) updated
+# Pending LRG record LRG_701(POMGNT1) updated
+# Pending LRG record LRG_742(BAG3) updated
+# Pending LRG record LRG_766(RYR1) updated
+# Pending LRG record LRG_792 has been moved to stalled
+# Pending LRG record LRG_795 has been moved to stalled
+# Pending LRG record LRG_796 has been moved to stalled
+# Pending LRG record LRG_798 has been moved to stalled
+# Pending LRG record LRG_799 has been moved to stalled
+# Pending LRG record LRG_800 has been moved to stalled
+# Pending LRG record LRG_801 has been moved to stalled
+# Pending LRG record LRG_802 has been moved to stalled
+# Pending LRG record LRG_803 has been moved to stalled
+# Pending LRG record LRG_804 has been moved to stalled
+# Pending LRG record LRG_805 has been moved to stalled
+# Pending LRG record LRG_806 has been moved to stalled
+# Pending LRG record LRG_807 has been moved to stalled
+# Pending LRG record LRG_808 has been moved to stalled
+# Pending LRG record LRG_809 has been moved to stalled
+# Pending LRG record LRG_810 has been moved to stalled
+# Pending LRG record LRG_811 has been moved to stalled
+# Pending LRG record LRG_812 has been moved to stalled
+# Pending LRG record LRG_813 has been moved to stalled
+# Pending LRG record LRG_814 has been moved to stalled
+# Pending LRG record LRG_815 has been moved to stalled
+# Pending LRG record LRG_816 has been moved to stalled
+# Pending LRG record LRG_817 has been moved to stalled
+# Pending LRG record LRG_818 has been moved to stalled
+# Pending LRG record LRG_819 has been moved to stalled
+# Pending LRG record LRG_820 has been moved to stalled
+# Pending LRG record LRG_821 has been moved to stalled
+# Pending LRG record LRG_822 has been moved to stalled
+# Pending LRG record LRG_823 has been moved to stalled
+# Pending LRG record LRG_824 has been moved to stalled
+# Pending LRG record LRG_825 has been moved to stalled
+# Pending LRG record LRG_826 has been moved to stalled
+# Pending LRG record LRG_827 has been moved to stalled
+# Pending LRG record LRG_868(ANO5) added
+# Pending LRG record LRG_870(FLNC) added
+# Pending LRG record LRG_871(ITGA7) added
+# Pending LRG record LRG_872(SYNE2) added
+# Pending LRG record LRG_873(BIN1) added
