@@ -1,4 +1,4 @@
-LRG release 178 (23-Sep-2014)
+LRG release 179 (10-Oct-2014)
 # Schema version 1.8
 
 There are 532 LRG entries
@@ -6,7 +6,6 @@ There are 235 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_400(DSC2) is now public
-# Pending LRG record LRG_401(JUP) is now public
-# Pending LRG record LRG_748(HFE) is now public
-# Pending LRG record LRG_749(LAMP2) is now public
+# Pending LRG record LRG_181(NLRP12) updated
+# Pending LRG record LRG_407(CRYAB) updated
+# Pending LRG record LRG_619(SOCS3) updated
