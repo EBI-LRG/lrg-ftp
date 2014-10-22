@@ -1,11 +1,34 @@
-LRG release 179 (10-Oct-2014)
+LRG release 180 (22-Oct-2014)
 # Schema version 1.8
 
-There are 532 LRG entries
-There are 235 pending LRG entries
+There are 558 LRG entries
+There are 209 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_181(NLRP12) updated
-# Pending LRG record LRG_407(CRYAB) updated
-# Pending LRG record LRG_619(SOCS3) updated
+# Pending LRG record LRG_351(VPS13B) is now public
+# Pending LRG record LRG_536(FSHR) is now public
+# Pending LRG record LRG_611(IDH2) is now public
+# Pending LRG record LRG_613(KMT2A) is now public
+# Pending LRG record LRG_616(KDM6A) is now public
+# Pending LRG record LRG_617(SF1) is now public
+# Pending LRG record LRG_620(BCL2L11) is now public
+# Pending LRG record LRG_621(SH2B3) is now public
+# Pending LRG record LRG_622(SF3A1) is now public
+# Pending LRG record LRG_625(PRPF40B) is now public
+# Pending LRG record LRG_627(BCOR) is now public
+# Pending LRG record LRG_629(PHF6) is now public
+# Pending LRG record LRG_640(SRSF2) is now public
+# Pending LRG record LRG_650(KRIT1) is now public
+# Pending LRG record LRG_653(ANG) is now public
+# Pending LRG record LRG_670(TBX5) is now public
+# Pending LRG record LRG_674(SALL1) is now public
+# Pending LRG record LRG_697(CC2D2A) is now public
+# Pending LRG record LRG_718(OTX2) is now public
+# Pending LRG record LRG_719(SOX2) is now public
+# Pending LRG record LRG_720(PAX6) is now public
+# Pending LRG record LRG_721(AKT1) is now public
+# Pending LRG record LRG_727(TYMP) is now public
+# Pending LRG record LRG_767(APOA1) is now public
+# Pending LRG record LRG_777(CBS) is now public
+# Pending LRG record LRG_778(FBN1) is now public
