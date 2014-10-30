@@ -1,3 +1,28 @@
+==================================================
+> LRG.rnc version 1.9 Release notes   2014-10-01 <
+==================================================
+
+# FIXED_ANNOTATION section:
+
+- New tag "creation_date" for the new transcripts in the fixed section, if the transcripts have been added after the LRG has been made public.
+
+- Move or duplicate requester information to the updatable section: we will keep the requester information in the fixed section for the public LRGs and for the pending LRG, the requester information will be only in the updatable section, as an annotation set with the type "requester".
+
+- Allow LRG without transcripts: change the constraint on the "transcript" tag.
+
+
+# UPDATABLE_ANNOTATION section:
+
+- New attribute "type" in the "annotation_set" tag to indicate the type of annotation set, i.e. 'lrg', 'ncbi', 'ensembl', 'requester', 'community', 'lsdb'.
+
+- New attribute "type" in the "mapping" tag to indicate the type of sequence aligned against the LRG sequence, i.e. 'main assembly', 'other assembly', 'patch', 'haplotype', 'transcript'.
+
+- New attribute "other_id_syn" in the "mapping" tag to add a synonym of the "other_name" or "other_id "  attributes (e.g. the INSDC identifier of the chromosome).
+
+- New optional "note" tag, mainly designed for the community annotation set.
+
+- Move or duplicate requester information to the updatable section: we will keep the requester information in the fixed section for the public LRGs and for the pending LRG, the requester information will be only in the updatable section, as an annotation set with the type "requester".
+
 
 ==================================================
 > LRG.rnc version 1.8 Release notes   2013-08-28 <
