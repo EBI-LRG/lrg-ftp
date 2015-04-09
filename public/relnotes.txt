@@ -1,12 +1,34 @@
-LRG release 192 (09-Apr-2015)
+LRG release 193 (09-Apr-2015)
 # Schema version 1.9
 
 There are 557 LRG entries
-There are 231 pending LRG entries
+There are 257 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_835(KCTD7) updated
-# Pending LRG record LRG_855(CHKB) updated
-# Pending LRG record LRG_883(BLOC1S6) updated
-# Pending LRG record LRG_888(PCSK6) added
+# Pending LRG record LRG_342(TINF2) added
+# Pending LRG record LRG_546(BLOC1S3) added
+# Pending LRG record LRG_548(F10) added
+# Pending LRG record LRG_549(F13A1) added
+# Pending LRG record LRG_550(F13B) added
+# Pending LRG record LRG_551(F2) added
+# Pending LRG record LRG_553(F5) added
+# Pending LRG record LRG_554(F7) added
+# Pending LRG record LRG_560(GP6) added
+# Pending LRG record LRG_562(HPS1) added
+# Pending LRG record LRG_563(HPS3) added
+# Pending LRG record LRG_564(HPS6) added
+# Pending LRG record LRG_565(KLKB1) added
+# Pending LRG record LRG_570(PLAT) added
+# Pending LRG record LRG_572(PROS1) added
+# Pending LRG record LRG_577(SERPINC1) added
+# Pending LRG record LRG_582(VKORC1) added
+# Pending LRG record LRG_583(F11) added
+# Pending LRG record LRG_586(HPS5) added
+# Pending LRG record LRG_588(DTNBP1) added
+# Pending LRG record LRG_592(GGCX) added
+# Pending LRG record LRG_593(PLAU) added
+# Pending LRG record LRG_594(SERPIND1) added
+# Pending LRG record LRG_597(SERPINE1) added
+# Pending LRG record LRG_599(PROC) added
+# Pending LRG record LRG_601(HRG) added
