@@ -1,4 +1,4 @@
-LRG release 213 (17-Jun-2015)
+LRG release 214 (17-Jun-2015)
 # Schema version 1.9
 
 There are 588 LRG entries
@@ -6,16 +6,19 @@ There are 224 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_259(NEFL) is now public
-# Pending LRG record LRG_479(ITGA2B) is now public
-# Pending LRG record LRG_481(ITGB3) is now public
-# Pending LRG record LRG_680(TPM2) is now public
-# Pending LRG record LRG_745(EMD) is now public
-# Pending LRG record LRG_766(RYR1) is now public
-# Pending LRG record LRG_839(MTM1) is now public
-# Pending LRG record LRG_844(POMT2) is now public
-# Pending LRG record LRG_847(PIN1) is now public
-# Pending LRG record LRG_855(CHKB) is now public
-# Pending LRG record LRG_860(VMA21) is now public
-# Pending LRG record LRG_868(ANO5) is now public
-# Pending LRG record LRG_870(FLNC) is now public
+# LRG record LRG_259(NEFL) updated
+# LRG record LRG_479(ITGA2B) updated
+# LRG record LRG_481(ITGB3) updated
+# Pending LRG record LRG_624(SF3B1) updated
+# Pending LRG record LRG_628(BCORL1) updated
+# LRG record LRG_680(TPM2) updated
+# LRG record LRG_745(EMD) updated
+# LRG record LRG_766(RYR1) updated
+# Pending LRG record LRG_785(POLD1) updated
+# LRG record LRG_839(MTM1) updated
+# LRG record LRG_844(POMT2) updated
+# LRG record LRG_847(PIN1) updated
+# LRG record LRG_855(CHKB) updated
+# LRG record LRG_860(VMA21) updated
+# LRG record LRG_868(ANO5) updated
+# LRG record LRG_870(FLNC) updated
