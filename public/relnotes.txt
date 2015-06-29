@@ -1,4 +1,4 @@
-LRG release 220 (22-Jun-2015)
+LRG release 221 (29-Jun-2015)
 # Schema version 1.9
 
 There are 592 LRG entries
@@ -11,7 +11,6 @@ There are 223 pending LRG entries
 # LRG record LRG_100(RASGRP2) updated
 # Pending LRG record LRG_1000(GPR101) updated
 # Pending LRG record LRG_1001(ITGA2) updated
-# Pending LRG record LRG_1002(CD109) updated
 # LRG record LRG_101(RFX5) updated
 # LRG record LRG_102(RFXANK) updated
 # LRG record LRG_103(RFXAP) updated
