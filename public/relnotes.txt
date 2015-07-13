@@ -1,4 +1,4 @@
-LRG release 224 (06-Jul-2015)
+LRG release 225 (13-Jul-2015)
 # Schema version 1.9
 
 There are 598 LRG entries
