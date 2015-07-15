@@ -1,10 +1,20 @@
-LRG release 226 (15-Jul-2015)
+LRG release 227 (15-Jul-2015)
 # Schema version 1.9
 
-There are 598 LRG entries
-There are 223 pending LRG entries
+There are 610 LRG entries
+There are 211 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_779(TGFBR2) updated
-# Pending LRG record LRG_781(ACTA2) updated
+# Pending LRG record LRG_338(LCT) is now public
+# Pending LRG record LRG_429(ACTA1) is now public
+# Pending LRG record LRG_699(CHM) is now public
+# Pending LRG record LRG_713(REEP1) is now public
+# Pending LRG record LRG_714(SPAST) is now public
+# Pending LRG record LRG_730(IL36RN) is now public
+# Pending LRG record LRG_779(TGFBR2) is now public
+# Pending LRG record LRG_781(ACTA2) is now public
+# Pending LRG record LRG_837(SLC40A1) is now public
+# Pending LRG record LRG_867(FRMD7) is now public
+# Pending LRG record LRG_875(ARID1A) is now public
+# Pending LRG record LRG_880(EPPK1) is now public
