@@ -1,29 +1,32 @@
-LRG release 232 (12-Aug-2015)
+LRG release 233 (12-Aug-2015)
 # Schema version 1.9
 
-There are 610 LRG entries
-There are 211 pending LRG entries
+There are 634 LRG entries
+There are 187 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_548(F10) updated
-# Pending LRG record LRG_549(F13A1) updated
-# Pending LRG record LRG_550(F13B) updated
-# Pending LRG record LRG_553(F5) updated
-# Pending LRG record LRG_558(FGB) updated
-# Pending LRG record LRG_561(HOXA11) updated
-# Pending LRG record LRG_564(HPS6) updated
-# Pending LRG record LRG_566(MCFD2) updated
-# Pending LRG record LRG_568(NBEAL2) updated
-# Pending LRG record LRG_569(P2RY12) updated
-# Pending LRG record LRG_570(PLAT) updated
-# Pending LRG record LRG_578(TBXA2R) updated
-# Pending LRG record LRG_581(TUBB1) updated
-# Pending LRG record LRG_583(F11) updated
-# Pending LRG record LRG_586(HPS5) updated
-# Pending LRG record LRG_597(SERPINE1) updated
-# Pending LRG record LRG_600(CHST14) updated
-# Pending LRG record LRG_862(TSPYL1) updated
-# Pending LRG record LRG_876(CYCS) updated
-# Pending LRG record LRG_879(GFI1B) updated
-# Pending LRG record LRG_884(VPS33B) updated
+# Pending LRG record LRG_477(GP9) is now public
+# Pending LRG record LRG_478(GP1BB) is now public
+# Pending LRG record LRG_543(ACVRL1) is now public
+# Pending LRG record LRG_548(F10) is now public
+# Pending LRG record LRG_549(F13A1) is now public
+# Pending LRG record LRG_550(F13B) is now public
+# Pending LRG record LRG_553(F5) is now public
+# Pending LRG record LRG_558(FGB) is now public
+# Pending LRG record LRG_561(HOXA11) is now public
+# Pending LRG record LRG_564(HPS6) is now public
+# Pending LRG record LRG_566(MCFD2) is now public
+# Pending LRG record LRG_568(NBEAL2) is now public
+# Pending LRG record LRG_569(P2RY12) is now public
+# Pending LRG record LRG_570(PLAT) is now public
+# Pending LRG record LRG_578(TBXA2R) is now public
+# Pending LRG record LRG_583(F11) is now public
+# Pending LRG record LRG_586(HPS5) is now public
+# Pending LRG record LRG_597(SERPINE1) is now public
+# Pending LRG record LRG_600(CHST14) is now public
+# Pending LRG record LRG_663(CFTR) is now public
+# Pending LRG record LRG_862(TSPYL1) is now public
+# Pending LRG record LRG_876(CYCS) is now public
+# Pending LRG record LRG_879(GFI1B) is now public
+# Pending LRG record LRG_884(VPS33B) is now public
