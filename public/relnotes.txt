@@ -1,4 +1,4 @@
-LRG release 236 (01-Sep-2015)
+LRG release 237 (08-Sep-2015)
 # Schema version 1.9
 
 There are 634 LRG entries
@@ -504,7 +504,6 @@ There are 187 pending LRG entries
 # LRG record LRG_55(DKC1) updated
 # LRG record LRG_550(F13B) updated
 # LRG record LRG_553(F5) updated
-# Pending LRG record LRG_554(F7) updated
 # Pending LRG record LRG_555(F8) updated
 # LRG record LRG_556(F9) updated
 # LRG record LRG_557(FGA) updated
