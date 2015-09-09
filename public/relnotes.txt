@@ -1,25 +1,16 @@
-LRG release 238 (08-Sep-2015)
+LRG release 239 (09-Sep-2015)
 # Schema version 1.9
 
-There are 634 LRG entries
-There are 194 pending LRG entries
+There are 642 LRG entries
+There are 186 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_1014(LMX1B) added
-# Pending LRG record LRG_1017(ABCD1) added
-# Pending LRG record LRG_1018(SRC) added
-# Pending LRG record LRG_1019(VIPAS39) added
-# Pending LRG record LRG_1020(SLC13A5) added
-# Pending LRG record LRG_1021(FGFR3) added
-# Pending LRG record LRG_1022(SLCO1B1) added
-# Pending LRG record LRG_546(BLOC1S3) updated
-# Pending LRG record LRG_551(F2) updated
-# Pending LRG record LRG_554(F7) updated
-# Pending LRG record LRG_562(HPS1) updated
-# Pending LRG record LRG_563(HPS3) updated
-# Pending LRG record LRG_582(VKORC1) updated
-# Pending LRG record LRG_585(FGG) updated
-# Pending LRG record LRG_592(GGCX) updated
-# Pending LRG record LRG_601(HRG) updated
-# Pending LRG record LRG_883(BLOC1S6) updated
+# Pending LRG record LRG_143(LYST) is now public
+# Pending LRG record LRG_546(BLOC1S3) is now public
+# Pending LRG record LRG_551(F2) is now public
+# Pending LRG record LRG_554(F7) is now public
+# Pending LRG record LRG_577(SERPINC1) is now public
+# Pending LRG record LRG_601(HRG) is now public
+# Pending LRG record LRG_605(ANKRD26) is now public
+# Pending LRG record LRG_883(BLOC1S6) is now public
