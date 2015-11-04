@@ -1,29 +1,17 @@
-LRG release 250 (04-Nov-2015)
+LRG release 251 (04-Nov-2015)
 # Schema version 1.9
 
-There are 664 LRG entries
-There are 177 pending LRG entries
+There are 663 LRG entries
+There are 178 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_1001(ITGA2) updated
-# Pending LRG record LRG_1002(CD109) updated
-# Pending LRG record LRG_1018(SRC) is now public
-# Pending LRG record LRG_1020(SLC13A5) is now public
-# Pending LRG record LRG_1021(FGFR3) is now public
-# Pending LRG record LRG_1022(SLCO1B1) is now public
+# LRG record LRG_1018(SRC) updated
+# LRG record LRG_1020(SLC13A5) updated
+# LRG record LRG_1021(FGFR3) updated
+# LRG record LRG_1022(SLCO1B1) updated
 # Pending LRG record LRG_1024(EIF2AK3) is now public
-# Pending LRG record LRG_1026(RNF43) is now public
-# Pending LRG record LRG_1027(SLC29A1) added
-# Pending LRG record LRG_1028(FLG) added
-# Pending LRG record LRG_1029(TOR1A) added
-# Pending LRG record LRG_14(L1CAM) updated
-# Pending LRG record LRG_315(SDHA) updated
-# Pending LRG record LRG_572(PROS1) is now public
-# Pending LRG record LRG_579(TBXAS1) is now public
-# Pending LRG record LRG_589(ENG) is now public
-# Pending LRG record LRG_635(P2RY1) added
-# Pending LRG record LRG_710(SHOX) added
-# Pending LRG record LRG_762(FMR1) updated
-# Pending LRG record LRG_797(RHCE) updated
-# Pending LRG record LRG_799(KEL) updated
+# LRG record LRG_1026(RNF43) updated
+# LRG record LRG_572(PROS1) updated
+# LRG record LRG_579(TBXAS1) updated
+# LRG record LRG_589(ENG) updated
