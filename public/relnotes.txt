@@ -1,4 +1,4 @@
-LRG release 253 (17-Nov-2015)
+LRG release 254 (18-Nov-2015)
 # Schema version 1.9
 
 There are 663 LRG entries
@@ -6,28 +6,27 @@ There are 202 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_1014(LMX1B) updated
-# Pending LRG record LRG_1030(H19) added
-# Pending LRG record LRG_1031(IGF2) added
-# Pending LRG record LRG_1032(GRB10) added
-# Pending LRG record LRG_1033(MEST) added
-# Pending LRG record LRG_1034(DIRAS3) added
-# Pending LRG record LRG_1035(HYMAI) added
-# Pending LRG record LRG_1037(CALCR) added
-# Pending LRG record LRG_1038(CPA4) added
-# Pending LRG record LRG_1039(KLF14) added
-# Pending LRG record LRG_1040(ERLIN2) added
-# Pending LRG record LRG_1041(TRAPPC9) added
-# Pending LRG record LRG_1042(KCNK9) added
-# Pending LRG record LRG_1043(PHLDA2) added
-# Pending LRG record LRG_1046(MAGEL2) added
-# Pending LRG record LRG_1047(NDN) added
-# Pending LRG record LRG_1048(NNAT) added
-# Pending LRG record LRG_1051(GNAS-AS1) added
-# Pending LRG record LRG_1052(KCNQ1OT1) added
-# Pending LRG record LRG_1054(SLC22A18) added
-# Pending LRG record LRG_1055(IGF1R) added
-# Pending LRG record LRG_1056(MESTIT1) added
-# Pending LRG record LRG_1057(HTR5A) added
-# Pending LRG record LRG_1059(RTL1) added
-# Pending LRG record LRG_1061(INPP5F) added
+# Pending LRG record LRG_1030(H19) updated
+# Pending LRG record LRG_1031(IGF2) updated
+# Pending LRG record LRG_1032(GRB10) updated
+# Pending LRG record LRG_1033(MEST) updated
+# Pending LRG record LRG_1034(DIRAS3) updated
+# Pending LRG record LRG_1035(HYMAI) updated
+# Pending LRG record LRG_1037(CALCR) updated
+# Pending LRG record LRG_1038(CPA4) updated
+# Pending LRG record LRG_1039(KLF14) updated
+# Pending LRG record LRG_1040(ERLIN2) updated
+# Pending LRG record LRG_1041(TRAPPC9) updated
+# Pending LRG record LRG_1042(KCNK9) updated
+# Pending LRG record LRG_1043(PHLDA2) updated
+# Pending LRG record LRG_1046(MAGEL2) updated
+# Pending LRG record LRG_1047(NDN) updated
+# Pending LRG record LRG_1048(NNAT) updated
+# Pending LRG record LRG_1051(GNAS-AS1) updated
+# Pending LRG record LRG_1052(KCNQ1OT1) updated
+# Pending LRG record LRG_1054(SLC22A18) updated
+# Pending LRG record LRG_1055(IGF1R) updated
+# Pending LRG record LRG_1056(MESTIT1) updated
+# Pending LRG record LRG_1057(HTR5A) updated
+# Pending LRG record LRG_1059(RTL1) updated
+# Pending LRG record LRG_1061(INPP5F) updated
