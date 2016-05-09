@@ -1,4 +1,4 @@
-LRG release 285 (02-May-2016)
+LRG release 286 (09-May-2016)
 # Schema version 1.9
 
 There are 664 LRG entries
@@ -133,7 +133,6 @@ There are 224 pending LRG entries
 # LRG record LRG_150(IL2RG) updated
 # LRG record LRG_151(IL10RA) updated
 # LRG record LRG_152(IL10RB) updated
-# Pending LRG record LRG_153(LCK) updated
 # LRG record LRG_154(MBL2) updated
 # LRG record LRG_155(CD46) updated
 # LRG record LRG_156(MVK) updated
@@ -236,6 +235,7 @@ There are 224 pending LRG entries
 # LRG record LRG_243(GARS) updated
 # LRG record LRG_245(GJB1) updated
 # LRG record LRG_246(HOXD10) updated
+# Pending LRG record LRG_247(WNK1) updated
 # LRG record LRG_248(HSPB1) updated
 # LRG record LRG_249(HSPB8) updated
 # LRG record LRG_25(C1S) updated
@@ -274,6 +274,7 @@ There are 224 pending LRG entries
 # LRG record LRG_28(C5) updated
 # LRG record LRG_280(RNASEH2C) updated
 # LRG record LRG_281(SAMHD1) updated
+# Pending LRG record LRG_282(TREX1) updated
 # LRG record LRG_283(LEPR) updated
 # LRG record LRG_284(ZNF778) updated
 # LRG record LRG_285(FXR2) updated
@@ -723,7 +724,6 @@ There are 224 pending LRG entries
 # LRG record LRG_726(MTHFR) updated
 # LRG record LRG_727(TYMP) updated
 # Pending LRG record LRG_728(RBCK1) updated
-# Pending LRG record LRG_729(CARD11) updated
 # LRG record LRG_73(IL2RA) updated
 # LRG record LRG_730(IL36RN) updated
 # Pending LRG record LRG_731(IL21R) updated
@@ -760,6 +760,7 @@ There are 224 pending LRG entries
 # LRG record LRG_76(ITGB2) updated
 # LRG record LRG_760(MURC) updated
 # Pending LRG record LRG_761(FKRP) updated
+# Pending LRG record LRG_762(FMR1) updated
 # Pending LRG record LRG_763(HTT) updated
 # Pending LRG record LRG_764(MECP2) updated
 # Pending LRG record LRG_765(POLG) updated
@@ -833,6 +834,7 @@ There are 224 pending LRG entries
 # Pending LRG record LRG_861(ARID1B) updated
 # LRG record LRG_862(TSPYL1) updated
 # Pending LRG record LRG_863(ATXN1) updated
+# Pending LRG record LRG_864(ATXN2) updated
 # Pending LRG record LRG_865(ATXN3) updated
 # Pending LRG record LRG_866(ATXN7) updated
 # LRG record LRG_867(FRMD7) updated
