@@ -1,4 +1,4 @@
-LRG release 319 (23-Oct-2016)
+LRG release 320 (24-Oct-2016)
 # Schema version 1.9
 
 There are 665 LRG entries
@@ -303,6 +303,7 @@ There are 284 pending LRG entries
 # LRG record LRG_286(COL7A1) updated
 # LRG record LRG_287(KCNQ1) updated
 # LRG record LRG_288(KCNH2) updated
+# LRG record LRG_289(SCN5A) updated
 # LRG record LRG_29(C6) updated
 # LRG record LRG_290(KCNE1) updated
 # LRG record LRG_291(KCNE2) updated
@@ -381,7 +382,6 @@ There are 284 pending LRG entries
 # LRG record LRG_364(FBLN5) updated
 # LRG record LRG_365(HK1) updated
 # LRG record LRG_366(KARS) updated
-# Pending LRG record LRG_367(KIF1A) updated
 # LRG record LRG_368(MED25) updated
 # LRG record LRG_369(SCN9A) updated
 # LRG record LRG_37(CD3D) updated
@@ -821,7 +821,6 @@ There are 284 pending LRG entries
 # Pending LRG record LRG_795(A4GALT) updated
 # Pending LRG record LRG_796(RHD) updated
 # Pending LRG record LRG_797(RHCE) updated
-# Pending LRG record LRG_798(BCAM) updated
 # Pending LRG record LRG_799(KEL) updated
 # LRG record LRG_8(SCN1A) updated
 # LRG record LRG_80(LRRC8A) updated
@@ -934,9 +933,5 @@ There are 284 pending LRG entries
 # Pending LRG record LRG_991(CDK6) updated
 # LRG record LRG_992(ESR1) updated
 # Pending LRG record LRG_993(FGFR1) updated
-# Pending LRG record LRG_994(FGFR2) updated
 # Pending LRG record LRG_995(FUBP1) updated
-# Pending LRG record LRG_996(ERBB3) updated
 # Pending LRG record LRG_997(ROS1) updated
-# Pending LRG record LRG_998(CCND3) updated
-# Pending LRG record LRG_999(CIC) updated
