@@ -1,4 +1,4 @@
-LRG release 336 (18-Nov-2016)
+LRG release 337 (18-Nov-2016)
 # Schema version 1.9
 
 There are 674 LRG entries
@@ -6,12 +6,12 @@ There are 277 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_990(CCND1) is now public
-# Pending LRG record LRG_991(CDK6) is now public
-# Pending LRG record LRG_993(FGFR1) is now public
-# Pending LRG record LRG_994(FGFR2) is now public
-# Pending LRG record LRG_995(FUBP1) is now public
-# Pending LRG record LRG_996(ERBB3) is now public
-# Pending LRG record LRG_997(ROS1) is now public
-# Pending LRG record LRG_998(CCND3) is now public
-# Pending LRG record LRG_999(CIC) is now public
+# LRG record LRG_990(CCND1) updated
+# LRG record LRG_991(CDK6) updated
+# LRG record LRG_993(FGFR1) updated
+# LRG record LRG_994(FGFR2) updated
+# LRG record LRG_995(FUBP1) updated
+# LRG record LRG_996(ERBB3) updated
+# LRG record LRG_997(ROS1) updated
+# LRG record LRG_998(CCND3) updated
+# LRG record LRG_999(CIC) updated
