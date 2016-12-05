@@ -1,9 +1,9 @@
-LRG release 346 (05-Dec-2016)
+LRG release 347 (05-Dec-2016)
 # Schema version 1.9
 
-There are 688 LRG entries
-There are 264 pending LRG entries
+There are 689 LRG entries
+There are 263 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_845(DYSF) updated
+# Pending LRG record LRG_367(KIF1A) is now public
