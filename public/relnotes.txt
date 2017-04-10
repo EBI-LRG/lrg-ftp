@@ -1,4 +1,4 @@
-LRG release 383 (06-Apr-2017)
+LRG release 384 (10-Apr-2017)
 # Schema version 1.9
 
 There are 694 LRG entries
@@ -937,7 +937,6 @@ There are 267 pending LRG entries
 # LRG record LRG_887(NPHS2) updated
 # Pending LRG record LRG_888(PCSK6) updated
 # LRG record LRG_89(NFKBIA) updated
-# Pending LRG record LRG_9(SDHD) updated
 # LRG record LRG_90(NHEJ1) updated
 # LRG record LRG_91(PNP) updated
 # LRG record LRG_92(NRAS) updated
