@@ -1,4 +1,4 @@
-LRG release 392 (15-May-2017)
+LRG release 393 (19-May-2017)
 # Schema version 1.9
 
 There are 694 LRG entries
@@ -886,7 +886,6 @@ There are 306 pending LRG entries
 # Pending LRG record LRG_801(ACKR1) updated
 # Pending LRG record LRG_802(SLC14A1) updated
 # Pending LRG record LRG_803(SLC4A1) updated
-# Pending LRG record LRG_804(ACHE) updated
 # Pending LRG record LRG_805(XG) updated
 # Pending LRG record LRG_806(ERMAP) updated
 # Pending LRG record LRG_807(ART4) updated
