@@ -1,4 +1,4 @@
-LRG release 399 (12-Jun-2017)
+LRG release 400 (16-Jun-2017)
 # Schema version 1.9
 
 There are 694 LRG entries
@@ -143,7 +143,6 @@ There are 317 pending LRG entries
 # Pending LRG record LRG_1131(SPTA1) updated
 # Pending LRG record LRG_1132(SLC2A1) updated
 # Pending LRG record LRG_1133(SLC25A38) updated
-# Pending LRG record LRG_1134(SEC23B) updated
 # Pending LRG record LRG_1135(PRKG1) updated
 # Pending LRG record LRG_1136(PKLR) updated
 # Pending LRG record LRG_1137(PIEZO1) updated
@@ -173,7 +172,6 @@ There are 317 pending LRG entries
 # LRG record LRG_116(TCN2) updated
 # Pending LRG record LRG_1160(SLC11A2) updated
 # Pending LRG record LRG_1161(CBLC) updated
-# Pending LRG record LRG_1162(ABCB7) updated
 # Pending LRG record LRG_1163(ALAS2) updated
 # Pending LRG record LRG_1164(CDAN1) updated
 # Pending LRG record LRG_1165(ENO1) updated
@@ -887,6 +885,7 @@ There are 317 pending LRG entries
 # LRG record LRG_79(LIG4) updated
 # Pending LRG record LRG_790(ABCC8) updated
 # Pending LRG record LRG_791(HAMP) updated
+# Pending LRG record LRG_792(ABO) updated
 # Pending LRG record LRG_793(GYPA) updated
 # Pending LRG record LRG_794(GYPB) updated
 # Pending LRG record LRG_795(A4GALT) updated
@@ -986,6 +985,7 @@ There are 317 pending LRG entries
 # LRG record LRG_887(NPHS2) updated
 # Pending LRG record LRG_888(PCSK6) updated
 # LRG record LRG_89(NFKBIA) updated
+# Pending LRG record LRG_9(SDHD) updated
 # LRG record LRG_90(NHEJ1) updated
 # LRG record LRG_91(PNP) updated
 # LRG record LRG_92(NRAS) updated
