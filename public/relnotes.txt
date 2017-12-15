@@ -1,8 +1,8 @@
-LRG release 444 (11-Dec-2017)
+LRG release 445 (15-Dec-2017)
 # Schema version 1.9
 
 There are 695 LRG entries
-There are 332 pending LRG entries
+There are 344 pending LRG entries
 
 ### Notes
 
@@ -165,6 +165,7 @@ There are 332 pending LRG entries
 # LRG record LRG_115(TCIRG1) updated
 # Pending LRG record LRG_1150(SETBP1) updated
 # Pending LRG record LRG_1151(SRP72) updated
+# Pending LRG record LRG_1152(RPL15) updated
 # Pending LRG record LRG_1153(ATRX) updated
 # Pending LRG record LRG_1154(SH3BP1) updated
 # Pending LRG record LRG_1155(RPL5) updated
@@ -194,7 +195,19 @@ There are 332 pending LRG entries
 # Pending LRG record LRG_1179(CBLB) updated
 # LRG record LRG_118(TMC6) updated
 # Pending LRG record LRG_1180(ALDOA) updated
+# Pending LRG record LRG_1181(ABCG5) added
+# Pending LRG record LRG_1182(ABCG8) added
+# Pending LRG record LRG_1183(ABCC4) added
+# Pending LRG record LRG_1186(ATP1A3) added
+# Pending LRG record LRG_1187(AK1) added
+# Pending LRG record LRG_1188(ARPC1B) added
+# Pending LRG record LRG_1189(CD9) added
 # LRG record LRG_119(TMC8) updated
+# Pending LRG record LRG_1190(FOXF2) added
+# Pending LRG record LRG_1191(JAG1) added
+# Pending LRG record LRG_1192(TRPM7) added
+# Pending LRG record LRG_1193(SYNGAP1) added
+# Pending LRG record LRG_1194(IQSEC2) added
 # LRG record LRG_12(FKBP10) updated
 # LRG record LRG_120(TNFRSF13B) updated
 # LRG record LRG_121(TYK2) updated
