@@ -1,4 +1,4 @@
-LRG release 476 (16-May-2018)
+LRG release 477 (21-May-2018)
 # Schema version 1.9
 
 There are 740 LRG entries
@@ -6,48 +6,48 @@ There are 322 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_1120(RPL19) is now public
-# Pending LRG record LRG_1125(RPL26) is now public
-# Pending LRG record LRG_1127(ARHGAP26) is now public
-# Pending LRG record LRG_1129(RPL35A) is now public
-# Pending LRG record LRG_1130(SPTB) is now public
-# Pending LRG record LRG_1131(SPTA1) is now public
-# Pending LRG record LRG_1133(SLC25A38) is now public
-# Pending LRG record LRG_1134(SEC23B) is now public
-# Pending LRG record LRG_1136(PKLR) is now public
-# Pending LRG record LRG_1137(PIEZO1) is now public
-# Pending LRG record LRG_1140(RPL11) is now public
-# Pending LRG record LRG_1143(RPS17) is now public
-# Pending LRG record LRG_1148(RPS7) is now public
-# Pending LRG record LRG_1150(SETBP1) is now public
-# Pending LRG record LRG_1152(RPL15) is now public
-# Pending LRG record LRG_1153(ATRX) is now public
-# Pending LRG record LRG_1154(SH3BP1) is now public
-# Pending LRG record LRG_1155(RPL5) is now public
-# Pending LRG record LRG_1156(RPL27) is now public
-# Pending LRG record LRG_1161(CBLC) is now public
-# Pending LRG record LRG_1163(ALAS2) is now public
-# Pending LRG record LRG_1164(CDAN1) is now public
-# Pending LRG record LRG_1165(ENO1) is now public
-# Pending LRG record LRG_1166(GCLC) is now public
-# Pending LRG record LRG_1169(UBE2T) is now public
-# Pending LRG record LRG_1170(VPS45) is now public
-# Pending LRG record LRG_1171(EPB42) is now public
-# Pending LRG record LRG_1179(CBLB) is now public
-# Pending LRG record LRG_1186(ATP1A3) is now public
-# Pending LRG record LRG_1188(ARPC1B) is now public
-# Pending LRG record LRG_1190(FOXF2) is now public
-# Pending LRG record LRG_1191(JAG1) is now public
-# Pending LRG record LRG_1196(KDSR) is now public
-# Pending LRG record LRG_1199(ABCB11) is now public
-# Pending LRG record LRG_1201(TJP2) is now public
-# Pending LRG record LRG_1203(ADAM17) is now public
-# Pending LRG record LRG_1205(ATP8B1) is now public
-# Pending LRG record LRG_1206(TBX4) is now public
-# Pending LRG record LRG_1207(AP3D1) is now public
-# Pending LRG record LRG_1208(ABCC2) is now public
-# Pending LRG record LRG_1209(CCBE1) is now public
-# Pending LRG record LRG_1211(C8G) is now public
-# Pending LRG record LRG_1214(DNAJC21) is now public
-# Pending LRG record LRG_580(THPO) is now public
-# Pending LRG record LRG_598(KNG1) is now public
+# LRG record LRG_1120(RPL19) updated
+# LRG record LRG_1125(RPL26) updated
+# LRG record LRG_1127(ARHGAP26) updated
+# LRG record LRG_1129(RPL35A) updated
+# LRG record LRG_1130(SPTB) updated
+# LRG record LRG_1131(SPTA1) updated
+# LRG record LRG_1133(SLC25A38) updated
+# LRG record LRG_1134(SEC23B) updated
+# LRG record LRG_1136(PKLR) updated
+# LRG record LRG_1137(PIEZO1) updated
+# LRG record LRG_1140(RPL11) updated
+# LRG record LRG_1143(RPS17) updated
+# LRG record LRG_1148(RPS7) updated
+# LRG record LRG_1150(SETBP1) updated
+# LRG record LRG_1152(RPL15) updated
+# LRG record LRG_1153(ATRX) updated
+# LRG record LRG_1154(SH3BP1) updated
+# LRG record LRG_1155(RPL5) updated
+# LRG record LRG_1156(RPL27) updated
+# LRG record LRG_1161(CBLC) updated
+# LRG record LRG_1163(ALAS2) updated
+# LRG record LRG_1164(CDAN1) updated
+# LRG record LRG_1165(ENO1) updated
+# LRG record LRG_1166(GCLC) updated
+# LRG record LRG_1169(UBE2T) updated
+# LRG record LRG_1170(VPS45) updated
+# LRG record LRG_1171(EPB42) updated
+# LRG record LRG_1179(CBLB) updated
+# LRG record LRG_1186(ATP1A3) updated
+# LRG record LRG_1188(ARPC1B) updated
+# LRG record LRG_1190(FOXF2) updated
+# LRG record LRG_1191(JAG1) updated
+# LRG record LRG_1196(KDSR) updated
+# LRG record LRG_1199(ABCB11) updated
+# LRG record LRG_1201(TJP2) updated
+# LRG record LRG_1203(ADAM17) updated
+# LRG record LRG_1205(ATP8B1) updated
+# LRG record LRG_1206(TBX4) updated
+# LRG record LRG_1207(AP3D1) updated
+# LRG record LRG_1208(ABCC2) updated
+# LRG record LRG_1209(CCBE1) updated
+# LRG record LRG_1211(C8G) updated
+# LRG record LRG_1214(DNAJC21) updated
+# LRG record LRG_580(THPO) updated
+# LRG record LRG_598(KNG1) updated
