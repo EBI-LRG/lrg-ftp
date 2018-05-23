@@ -1,11 +1,25 @@
-LRG release 482 (23-May-2018)
+LRG release 483 (23-May-2018)
 # Schema version 1.9
 
-There are 740 LRG entries
-There are 323 pending LRG entries
+There are 757 LRG entries
+There are 306 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_1121(IKZF1) updated
-# Pending LRG record LRG_1141(FBXW7) updated
-# Pending LRG record LRG_1216(CFHR2) added
+# Pending LRG record LRG_1122(NOTCH1) is now public
+# Pending LRG record LRG_1124(CTC1) is now public
+# Pending LRG record LRG_1132(SLC2A1) is now public
+# Pending LRG record LRG_1135(PRKG1) is now public
+# Pending LRG record LRG_1138(RPS10) is now public
+# Pending LRG record LRG_1141(FBXW7) is now public
+# Pending LRG record LRG_1146(RPS26) is now public
+# Pending LRG record LRG_1151(SRP72) is now public
+# Pending LRG record LRG_1158(RPS27) is now public
+# Pending LRG record LRG_1162(ABCB7) is now public
+# Pending LRG record LRG_1168(GSS) is now public
+# Pending LRG record LRG_1173(KIF23) is now public
+# Pending LRG record LRG_1178(GPI) is now public
+# Pending LRG record LRG_1210(BCL10) is now public
+# Pending LRG record LRG_1212(ADAR) is now public
+# Pending LRG record LRG_1213(VPS13D) is now public
+# Pending LRG record LRG_1216(CFHR2) is now public
