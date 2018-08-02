@@ -1,31 +1,11 @@
-LRG release 508 (02-Aug-2018)
+LRG release 509 (02-Aug-2018)
 # Schema version 1.9
 
 There are 773 LRG entries
-There are 342 pending LRG entries
+There are 344 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_1243(MTHFD1) added
-# Pending LRG record LRG_1244(ALDOB) added
-# Pending LRG record LRG_1245(FOXC1) added
-# Pending LRG record LRG_1246(COX6B1) added
-# Pending LRG record LRG_1247(AP5Z1) added
-# Pending LRG record LRG_1248(IL22) added
-# Pending LRG record LRG_1249(COL17A1) added
-# Pending LRG record LRG_1250(COX7B) added
-# Pending LRG record LRG_1251(AGK) added
-# Pending LRG record LRG_1252(CHST6) added
-# Pending LRG record LRG_1253(COL9A3) added
-# Pending LRG record LRG_1254(CHRNE) added
-# Pending LRG record LRG_1255(BBS10) added
-# Pending LRG record LRG_1256(ALX4) added
-# Pending LRG record LRG_1257(CDC6) added
-# Pending LRG record LRG_1258(CCDC8) added
-# Pending LRG record LRG_1259(AMER1) added
-# Pending LRG record LRG_1260(ALG6) added
-# Pending LRG record LRG_1261(B3GALT6) added
-# Pending LRG record LRG_1262(CYP1A1) added
-# Pending LRG record LRG_1263(IL21) added
-# Pending LRG record LRG_1264(ALOX12B) added
-# Pending LRG record LRG_1265(ALX3) added
+# Pending LRG record LRG_1266(CISD2) added
+# Pending LRG record LRG_1267(CYP2B6) added
+# Pending LRG record LRG_303(CYP2D6) updated
