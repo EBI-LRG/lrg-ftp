@@ -1,4 +1,4 @@
-LRG release 519 (23-Aug-2018)
+LRG release 520 (23-Aug-2018)
 # Schema version 1.9
 
 There are 790 LRG entries
@@ -8,4 +8,3 @@ There are 337 pending LRG entries
 
 # Pending LRG record LRG_1078(PPOX) updated
 # Pending LRG record LRG_1079(UROD) updated
-# Pending LRG record LRG_1277(IDUA) added
