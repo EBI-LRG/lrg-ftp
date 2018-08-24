@@ -1,10 +1,16 @@
-LRG release 520 (23-Aug-2018)
+LRG release 521 (24-Aug-2018)
 # Schema version 1.9
 
-There are 790 LRG entries
-There are 337 pending LRG entries
+There are 798 LRG entries
+There are 329 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_1078(PPOX) updated
-# Pending LRG record LRG_1079(UROD) updated
+# Pending LRG record LRG_1076(HMBS) is now public
+# Pending LRG record LRG_1077(CPOX) is now public
+# Pending LRG record LRG_1079(UROD) is now public
+# Pending LRG record LRG_1195(CYP2C9) is now public
+# Pending LRG record LRG_1262(CYP1A1) is now public
+# Pending LRG record LRG_1267(CYP2B6) is now public
+# Pending LRG record LRG_1274(CYP1A2) is now public
+# Pending LRG record LRG_303(CYP2D6) is now public
