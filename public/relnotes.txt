@@ -1,4 +1,4 @@
-LRG release 540 (17-Oct-2018)
+LRG release 541 (24-Oct-2018)
 # Schema version 1.9
 
 There are 803 LRG entries
@@ -89,7 +89,6 @@ There are 336 pending LRG entries
 # LRG record LRG_1079(UROD) updated
 # LRG record LRG_108(SMARCAL1) updated
 # Pending LRG record LRG_1080(FECH) updated
-# Pending LRG record LRG_1081(UROS) updated
 # Pending LRG record LRG_1082(CALM3) updated
 # Pending LRG record LRG_1083(KCNE5) updated
 # Pending LRG record LRG_1084(TERF2IP) updated
