@@ -178,7 +178,7 @@
 ## UPDATABLE_ANNOTATION section:
 
 - now contains one or more annotation_set elements to allow for sets of
-  annotation from multiple sources (e.g. NCBI, EBI).
+  annotation from multiple sources (e.g. NCBI, EMBL-EBI).
 
 - amino_acid_mapping element renamed alternate_amino_acid_numbering.
 
