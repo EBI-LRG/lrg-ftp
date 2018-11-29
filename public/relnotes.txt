@@ -1,8 +1,8 @@
-LRG release 555 (26-Nov-2018)
+LRG release 557 (29-Nov-2018)
 # Schema version 1.9
 
 There are 803 LRG entries
-There are 358 pending LRG entries
+There are 360 pending LRG entries
 
 ### Notes
 
@@ -336,6 +336,8 @@ There are 358 pending LRG entries
 # Pending LRG record LRG_1311(IL17RC) updated
 # Pending LRG record LRG_1312(PGM3) updated
 # Pending LRG record LRG_1313(IRF7) updated
+# Pending LRG record LRG_1314(TRNT1) added
+# Pending LRG record LRG_1315(RNF31) added
 # LRG record LRG_132(ACTB) updated
 # LRG record LRG_133(AK2) updated
 # LRG record LRG_134(FAS) updated
