@@ -1,4 +1,4 @@
-LRG release 570 (16-Jan-2019)
+LRG release 571 (21-Jan-2019)
 # Schema version 1.9
 
 There are 803 LRG entries
@@ -357,7 +357,6 @@ There are 379 pending LRG entries
 # Pending LRG record LRG_1331(GJB4) updated
 # Pending LRG record LRG_1332(NFAT5) updated
 # Pending LRG record LRG_1333(ITGAM) updated
-# Pending LRG record LRG_1334(SH3BP2) updated
 # LRG record LRG_134(FAS) updated
 # LRG record LRG_135(ATM) updated
 # LRG record LRG_136(CFB) updated
