@@ -1,4 +1,4 @@
-LRG release 594 (20-Mar-2019)
+LRG release 595 (25-Mar-2019)
 # Schema version 1.9
 
 There are 803 LRG entries
@@ -933,6 +933,7 @@ There are 421 pending LRG entries
 # LRG record LRG_630(ASXL1) updated
 # LRG record LRG_631(TREM2) updated
 # Pending LRG record LRG_635(P2RY1) updated
+# Pending LRG record LRG_638(PROCR) updated
 # LRG record LRG_64(HAX1) updated
 # LRG record LRG_640(SRSF2) updated
 # Pending LRG record LRG_641(F2R) updated
@@ -942,13 +943,24 @@ There are 421 pending LRG entries
 # LRG record LRG_65(ICOS) updated
 # LRG record LRG_650(KRIT1) updated
 # Pending LRG record LRG_651(PDCD10) updated
+# LRG record LRG_652(SOD1) updated
 # LRG record LRG_653(ANG) updated
+# Pending LRG record LRG_654(ALS2) updated
 # LRG record LRG_655(FUS) updated
+# LRG record LRG_656(VAPB) updated
 # LRG record LRG_657(VCP) updated
+# Pending LRG record LRG_658(C9orf72) updated
 # LRG record LRG_659(TARDBP) updated
 # LRG record LRG_66(IFNGR1) updated
+# Pending LRG record LRG_660(MAPT) updated
+# LRG record LRG_661(GRN) updated
+# LRG record LRG_662(MET) updated
 # LRG record LRG_663(CFTR) updated
+# LRG record LRG_664(CCM2) updated
+# LRG record LRG_665(UBQLN2) updated
 # LRG record LRG_666(AFG3L2) updated
+# Pending LRG record LRG_667(PDYN) updated
+# Pending LRG record LRG_668(KCNC3) updated
 # LRG record LRG_669(PRKCG) updated
 # LRG record LRG_67(IFNGR2) updated
 # LRG record LRG_670(TBX5) updated
