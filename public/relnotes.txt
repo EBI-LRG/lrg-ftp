@@ -1,38 +1,42 @@
-LRG release 596 (26-Mar-2019)
+LRG release 597 (26-Mar-2019)
 # Schema version 1.9
 
 There are 833 LRG entries
-There are 391 pending LRG entries
+There are 395 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_1231(ISG15) is now public
-# Pending LRG record LRG_1285(SART3) is now public
-# Pending LRG record LRG_1286(PARN) is now public
-# Pending LRG record LRG_1287(SEMA3E) is now public
-# Pending LRG record LRG_1306(TBK1) is now public
-# Pending LRG record LRG_1308(TMEM173) is now public
-# Pending LRG record LRG_1311(IL17RC) is now public
-# Pending LRG record LRG_1312(PGM3) is now public
-# Pending LRG record LRG_1313(IRF7) is now public
-# Pending LRG record LRG_1314(TRNT1) is now public
-# Pending LRG record LRG_1315(RNF31) is now public
-# Pending LRG record LRG_1316(NFKB1) is now public
-# Pending LRG record LRG_1317(NLRC4) is now public
-# Pending LRG record LRG_1318(SLC29A3) is now public
-# Pending LRG record LRG_1319(TNFRSF4) is now public
-# Pending LRG record LRG_1320(TNFSF12) is now public
-# Pending LRG record LRG_1323(TTC7A) is now public
-# Pending LRG record LRG_1324(LRBA) is now public
-# Pending LRG record LRG_1325(TCF3) is now public
-# Pending LRG record LRG_1327(PRKCD) is now public
-# Pending LRG record LRG_1328(PSMB8) is now public
-# Pending LRG record LRG_1329(STAT2) is now public
-# Pending LRG record LRG_1330(CARD14) is now public
-# Pending LRG record LRG_1332(NFAT5) is now public
-# Pending LRG record LRG_1333(ITGAM) is now public
-# Pending LRG record LRG_1334(SH3BP2) is now public
-# Pending LRG record LRG_1336(COPA) is now public
-# Pending LRG record LRG_1337(TRAF3IP2) is now public
-# Pending LRG record LRG_1341(TPP2) is now public
-# Pending LRG record LRG_1347(NFKB2) is now public
+# LRG record LRG_1231(ISG15) updated
+# LRG record LRG_1285(SART3) updated
+# LRG record LRG_1286(PARN) updated
+# LRG record LRG_1287(SEMA3E) updated
+# LRG record LRG_1306(TBK1) updated
+# LRG record LRG_1308(TMEM173) updated
+# LRG record LRG_1311(IL17RC) updated
+# LRG record LRG_1312(PGM3) updated
+# LRG record LRG_1313(IRF7) updated
+# LRG record LRG_1314(TRNT1) updated
+# LRG record LRG_1315(RNF31) updated
+# LRG record LRG_1316(NFKB1) updated
+# LRG record LRG_1317(NLRC4) updated
+# LRG record LRG_1318(SLC29A3) updated
+# LRG record LRG_1319(TNFRSF4) updated
+# LRG record LRG_1320(TNFSF12) updated
+# LRG record LRG_1323(TTC7A) updated
+# LRG record LRG_1324(LRBA) updated
+# LRG record LRG_1325(TCF3) updated
+# LRG record LRG_1327(PRKCD) updated
+# LRG record LRG_1328(PSMB8) updated
+# LRG record LRG_1329(STAT2) updated
+# LRG record LRG_1330(CARD14) updated
+# LRG record LRG_1332(NFAT5) updated
+# LRG record LRG_1333(ITGAM) updated
+# LRG record LRG_1334(SH3BP2) updated
+# LRG record LRG_1336(COPA) updated
+# LRG record LRG_1337(TRAF3IP2) updated
+# LRG record LRG_1341(TPP2) updated
+# LRG record LRG_1347(NFKB2) updated
+# Pending LRG record LRG_1375(DEK) added
+# Pending LRG record LRG_1376(HARS2) added
+# Pending LRG record LRG_1377(ILDR1) added
+# Pending LRG record LRG_1378(KCNQ4) added
