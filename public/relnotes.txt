@@ -1,4 +1,4 @@
-LRG release 603 (08-Apr-2019)
+LRG release 604 (10-Apr-2019)
 # Schema version 1.9
 
 There are 835 LRG entries
@@ -9,7 +9,6 @@ There are 394 pending LRG entries
 # LRG record LRG_1(COL1A1) updated
 # LRG record LRG_10(PPIB) updated
 # LRG record LRG_100(RASGRP2) updated
-# Pending LRG record LRG_1000(GPR101) updated
 # Pending LRG record LRG_1001(ITGA2) updated
 # Pending LRG record LRG_1002(CD109) updated
 # Pending LRG record LRG_1003(MPIG6B) updated
@@ -334,7 +333,6 @@ There are 394 pending LRG entries
 # Pending LRG record LRG_1304(MESP2) updated
 # Pending LRG record LRG_1305(KCNN4) updated
 # LRG record LRG_1306(TBK1) updated
-# Pending LRG record LRG_1307(MMP21) updated
 # LRG record LRG_1308(TMEM173) updated
 # Pending LRG record LRG_1309(ITM2B) updated
 # Pending LRG record LRG_131(TAZ) updated
@@ -355,13 +353,11 @@ There are 394 pending LRG entries
 # LRG record LRG_1323(TTC7A) updated
 # LRG record LRG_1324(LRBA) updated
 # LRG record LRG_1325(TCF3) updated
-# Pending LRG record LRG_1326(CDC42) updated
 # LRG record LRG_1327(PRKCD) updated
 # LRG record LRG_1328(PSMB8) updated
 # LRG record LRG_1329(STAT2) updated
 # LRG record LRG_133(AK2) updated
 # LRG record LRG_1330(CARD14) updated
-# Pending LRG record LRG_1331(GJB4) updated
 # LRG record LRG_1332(NFAT5) updated
 # LRG record LRG_1333(ITGAM) updated
 # LRG record LRG_1334(SH3BP2) updated
@@ -384,7 +380,6 @@ There are 394 pending LRG entries
 # LRG record LRG_135(ATM) updated
 # Pending LRG record LRG_1350(GJB2) updated
 # Pending LRG record LRG_1351(FYB1) updated
-# Pending LRG record LRG_1352(LHFPL5) updated
 # Pending LRG record LRG_1353(LARS2) updated
 # Pending LRG record LRG_1354(MYO3A) updated
 # Pending LRG record LRG_1355(POU4F3) updated
@@ -400,7 +395,6 @@ There are 394 pending LRG entries
 # Pending LRG record LRG_1364(CBFB) updated
 # Pending LRG record LRG_1365(GREM1) updated
 # Pending LRG record LRG_1366(NTHL1) updated
-# Pending LRG record LRG_1367(TACC3) updated
 # Pending LRG record LRG_1368(TMPRSS2) updated
 # Pending LRG record LRG_1369(STAT6) updated
 # LRG record LRG_137(C4A) updated
@@ -660,7 +654,7 @@ There are 394 pending LRG entries
 # LRG record LRG_368(MED25) updated
 # LRG record LRG_369(SCN9A) updated
 # LRG record LRG_37(CD3D) updated
-# Pending LRG record LRG_370(SEPT9) updated
+# Pending LRG record LRG_370(SEPTIN9) updated
 # LRG record LRG_371(SPTLC2) updated
 # LRG record LRG_372(TRPV4) updated
 # LRG record LRG_373(LRSAM1) updated
@@ -732,7 +726,6 @@ There are 394 pending LRG entries
 # LRG record LRG_433(LAMA4) updated
 # LRG record LRG_434(FKTN) updated
 # LRG record LRG_435(TMEM43) updated
-# Pending LRG record LRG_436(ACTN2) updated
 # LRG record LRG_437(CACNA2D1) updated
 # Pending LRG record LRG_438(MYO6) updated
 # LRG record LRG_439(KCNE3) updated
