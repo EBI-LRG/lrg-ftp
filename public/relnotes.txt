@@ -1,4 +1,4 @@
-LRG release 612 (01-May-2019)
+LRG release 613 (06-May-2019)
 # Schema version 1.9
 
 There are 835 LRG entries
@@ -699,7 +699,6 @@ There are 404 pending LRG entries
 # LRG record LRG_40(CD40) updated
 # LRG record LRG_400(DSC2) updated
 # LRG record LRG_401(JUP) updated
-# Pending LRG record LRG_402(RYR2) updated
 # LRG record LRG_403(BMP10) updated
 # LRG record LRG_404(CASQ2) updated
 # LRG record LRG_405(CHRM2) updated
