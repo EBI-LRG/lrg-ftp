@@ -1,10 +1,18 @@
-LRG release 630 (04-Jun-2019)
+LRG release 631 (04-Jun-2019)
 # Schema version 1.9
 
-There are 849 LRG entries
-There are 417 pending LRG entries
+There are 859 LRG entries
+There are 407 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_1413(CDK12) added
-# Pending LRG record LRG_1414(RAD54L) added
+# Pending LRG record LRG_1390(DDR2) is now public
+# Pending LRG record LRG_1391(AKT2) is now public
+# Pending LRG record LRG_1392(PIK3R2) is now public
+# Pending LRG record LRG_1393(SMO) is now public
+# Pending LRG record LRG_1396(AKT3) is now public
+# Pending LRG record LRG_1398(JAK1) is now public
+# Pending LRG record LRG_1399(ETNK1) is now public
+# Pending LRG record LRG_1400(ACAT1) is now public
+# Pending LRG record LRG_344(KRAS) is now public
+# Pending LRG record LRG_402(RYR2) is now public
