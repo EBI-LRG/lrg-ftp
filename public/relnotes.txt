@@ -1,4 +1,4 @@
-LRG release 642 (03-Jul-2019)
+LRG release 643 (08-Jul-2019)
 # Schema version 1.9
 
 There are 859 LRG entries
@@ -21,7 +21,6 @@ There are 415 pending LRG entries
 # LRG record LRG_1012(GRIK4) updated
 # Pending LRG record LRG_1013(PRSS1) updated
 # Pending LRG record LRG_1014(LMX1B) updated
-# Pending LRG record LRG_1015(PLA2G6) updated
 # Pending LRG record LRG_1016(PANK2) updated
 # Pending LRG record LRG_1017(ABCD1) updated
 # LRG record LRG_1018(SRC) updated
@@ -359,6 +358,7 @@ There are 415 pending LRG entries
 # LRG record LRG_1329(STAT2) updated
 # LRG record LRG_133(AK2) updated
 # LRG record LRG_1330(CARD14) updated
+# Pending LRG record LRG_1331(GJB4) updated
 # LRG record LRG_1332(NFAT5) updated
 # LRG record LRG_1333(ITGAM) updated
 # LRG record LRG_1334(SH3BP2) updated
@@ -376,6 +376,7 @@ There are 415 pending LRG entries
 # Pending LRG record LRG_1345(KRT17) updated
 # Pending LRG record LRG_1346(MC4R) updated
 # LRG record LRG_1347(NFKB2) updated
+# Pending LRG record LRG_1348(ENAM) updated
 # Pending LRG record LRG_1349(HOXA13) updated
 # LRG record LRG_135(ATM) updated
 # Pending LRG record LRG_1350(GJB2) updated
@@ -442,7 +443,6 @@ There are 415 pending LRG entries
 # Pending LRG record LRG_1409(FOXO1) updated
 # LRG record LRG_141(CD40LG) updated
 # Pending LRG record LRG_1410(H3F3A) updated
-# Pending LRG record LRG_1411(MYSM1) updated
 # Pending LRG record LRG_1412(SPOP) updated
 # Pending LRG record LRG_1413(CDK12) updated
 # Pending LRG record LRG_1414(RAD54L) updated
