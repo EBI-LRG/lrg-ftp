@@ -1,3 +1,19 @@
+===================================================
+> LRG.rnc version 1.10 Release notes   2019-08-24 <
+===================================================
+
+# FIXED_ANNOTATION section:
+
+- New optional tag "superceded_by" to indicate if a LRG has been deprecated and superceded by an other LRG.
+
+
+# UPDATABLE_ANNOTATION section:
+
+- Additional values ('novel_patch' and 'fix_patch') allowed for the attribute "type" in the "mapping" tag.
+
+- Additional values ('MANE-select' and 'MANE-plus') allowed for the attribute "source" in the "db_xref" tag.
+
+
 ==================================================
 > LRG.rnc version 1.9 Release notes   2014-10-01 <
 ==================================================
