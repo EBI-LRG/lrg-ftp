@@ -1,4 +1,4 @@
-LRG release 668 (16-Oct-2019)
+LRG release 669 (21-Oct-2019)
 # Schema version 1.10
 
 There are 859 LRG entries
@@ -56,7 +56,6 @@ There are 421 pending LRG entries
 # Pending LRG record LRG_1080(FECH) updated
 # Pending LRG record LRG_1087(KLLN) updated
 # LRG record LRG_109(SP110) updated
-# Pending LRG record LRG_1095(ADGRV1) updated
 # Pending LRG record LRG_1098(MEG3) updated
 # LRG record LRG_11(CDKN2A) updated
 # LRG record LRG_110(SPINK5) updated
