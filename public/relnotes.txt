@@ -1,4 +1,4 @@
-LRG release 682 (02-Dec-2019)
+LRG release 683 (04-Dec-2019)
 # Schema version 1.10
 
 There are 859 LRG entries
@@ -38,6 +38,7 @@ There are 421 pending LRG entries
 # Pending LRG record LRG_1051(GNAS-AS1) updated
 # Pending LRG record LRG_1052(KCNQ1OT1) updated
 # Pending LRG record LRG_1053(PPIE) updated
+# Pending LRG record LRG_1054(SLC22A18) updated
 # Pending LRG record LRG_1055(IGF1R) updated
 # Pending LRG record LRG_1056(MESTIT1) updated
 # Pending LRG record LRG_1057(HTR5A) updated
@@ -47,11 +48,13 @@ There are 421 pending LRG entries
 # LRG record LRG_107(SLC35C1) updated
 # Pending LRG record LRG_1074(GCK) updated
 # Pending LRG record LRG_1075(DUX4) updated
+# LRG record LRG_1076(HMBS) updated
 # LRG record LRG_1077(CPOX) updated
 # Pending LRG record LRG_1078(PPOX) updated
 # LRG record LRG_1079(UROD) updated
 # LRG record LRG_108(SMARCAL1) updated
 # Pending LRG record LRG_1080(FECH) updated
+# Pending LRG record LRG_1087(KLLN) updated
 # LRG record LRG_109(SP110) updated
 # Pending LRG record LRG_1095(ADGRV1) updated
 # Pending LRG record LRG_1098(MEG3) updated
@@ -732,7 +735,6 @@ There are 421 pending LRG entries
 # LRG record LRG_492(DICER1) updated
 # LRG record LRG_493(EXT1) updated
 # LRG record LRG_494(EXT2) updated
-# LRG record LRG_495(FANCA) updated
 # LRG record LRG_496(FANCB) updated
 # LRG record LRG_497(FANCC) updated
 # LRG record LRG_498(FANCE) updated
@@ -920,14 +922,12 @@ There are 421 pending LRG entries
 # LRG record LRG_714(SPAST) updated
 # LRG record LRG_715(AVP) updated
 # Pending LRG record LRG_716(AVPR2) updated
-# LRG record LRG_717(AQP2) updated
 # LRG record LRG_719(SOX2) updated
 # LRG record LRG_72(IL12RB1) updated
 # LRG record LRG_720(PAX6) updated
 # LRG record LRG_721(AKT1) updated
 # LRG record LRG_722(DPYD) updated
 # LRG record LRG_723(GSTP1) updated
-# LRG record LRG_724(ERBB2) updated
 # LRG record LRG_725(MAP2K1) updated
 # LRG record LRG_726(MTHFR) updated
 # LRG record LRG_727(TYMP) updated
