@@ -1,4 +1,4 @@
-LRG release 693 (13-Jan-2020)
+LRG release 694 (15-Jan-2020)
 # Schema version 1.10
 
 There are 859 LRG entries
@@ -1031,7 +1031,6 @@ There are 421 pending LRG entries
 # LRG record LRG_860(VMA21) updated
 # LRG record LRG_862(TSPYL1) updated
 # LRG record LRG_863(ATXN1) updated
-# Pending LRG record LRG_866(ATXN7) updated
 # LRG record LRG_867(FRMD7) updated
 # LRG record LRG_868(ANO5) updated
 # Pending LRG record LRG_869(DOK7) updated
