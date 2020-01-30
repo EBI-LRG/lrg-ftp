@@ -1,9 +1,9 @@
-LRG release 699 (29-Jan-2020)
+LRG release 700 (30-Jan-2020)
 # Schema version 1.10
 
-There are 859 LRG entries
-There are 422 pending LRG entries
+There are 860 LRG entries
+There are 421 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_1429(IKZF5) added
+# Pending LRG record LRG_1429(IKZF5) is now public
