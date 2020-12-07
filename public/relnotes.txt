@@ -1,4 +1,4 @@
-LRG release 713 (14-Sep-2020)
+LRG release 714 (07-Dec-2020)
 # Schema version 1.10
 
 There are 862 LRG entries
@@ -386,7 +386,7 @@ There are 421 pending LRG entries
 # LRG record LRG_1431(CYP3A5) updated
 # LRG record LRG_145(F12) updated
 # LRG record LRG_146(FPR1) updated
-# LRG record LRG_147(G6PC) updated
+# LRG record LRG_147(G6PC1) updated
 # LRG record LRG_148(G6PD) updated
 # LRG record LRG_149(CFHR1) updated
 # LRG record LRG_15(UBE3A) updated
