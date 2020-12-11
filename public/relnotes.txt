@@ -1,9 +1,10 @@
-LRG release 718 (11-Dec-2020)
+LRG release 719 (11-Dec-2020)
 # Schema version 1.10
 
-There are 863 LRG entries
-There are 420 pending LRG entries
+There are 864 LRG entries
+There are 419 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_1013(PRSS1) is now public
+# LRG record LRG_1013(PRSS1) updated
+# Pending LRG record LRG_1014(LMX1B) is now public
