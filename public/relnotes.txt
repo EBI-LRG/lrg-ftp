@@ -1,4 +1,4 @@
-LRG release 733 (11-Jan-2021)
+LRG release 734 (11-Jan-2021)
 # Schema version 1.10
 
 There are 864 LRG entries
@@ -73,6 +73,7 @@ There are 462 pending LRG entries
 # Pending LRG record LRG_1058(MEG8) updated
 # Pending LRG record LRG_1059(RTL1) updated
 # LRG record LRG_106(SH2D1A) updated
+# Pending LRG record LRG_1060(GET1) updated
 # Pending LRG record LRG_1061(INPP5F) updated
 # Pending LRG record LRG_1062(FAM50B) updated
 # Pending LRG record LRG_1064(IRAIN) updated
@@ -440,6 +441,7 @@ There are 462 pending LRG entries
 # Pending LRG record LRG_1394(SLC52A3) updated
 # Pending LRG record LRG_1395(GJB6) updated
 # LRG record LRG_1396(AKT3) updated
+# Pending LRG record LRG_1397(MYC) updated
 # LRG record LRG_1398(JAK1) updated
 # LRG record LRG_1399(ETNK1) updated
 # Pending LRG record LRG_14(L1CAM) updated
@@ -473,6 +475,7 @@ There are 462 pending LRG entries
 # Pending LRG record LRG_1424(BTG1) updated
 # Pending LRG record LRG_1425(CHD2) updated
 # Pending LRG record LRG_1426(CREBBP) updated
+# Pending LRG record LRG_1427(MRTFA) updated
 # Pending LRG record LRG_1428(GSDME) updated
 # LRG record LRG_1429(IKZF5) updated
 # LRG record LRG_143(LYST) updated
