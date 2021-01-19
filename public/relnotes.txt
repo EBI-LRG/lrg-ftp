@@ -1,12 +1,156 @@
-LRG release 744 (18-Jan-2021)
+LRG release 745 (19-Jan-2021)
 # Schema version 1.10
 
-There are 864 LRG entries
-There are 461 pending LRG entries
+There are 1012 LRG entries
+There are 313 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_277(RECQL4) updated
-# Pending LRG record LRG_370(SEPTIN9) updated
-# Pending LRG record LRG_555(F8) updated
-# Pending LRG record LRG_68(IGFBP3) updated
+# Pending LRG record LRG_1001(ITGA2) is now public
+# Pending LRG record LRG_1017(ABCD1) is now public
+# Pending LRG record LRG_1023(CD99) is now public
+# Pending LRG record LRG_1024(EIF2AK3) is now public
+# Pending LRG record LRG_1027(SLC29A1) is now public
+# Pending LRG record LRG_1029(TOR1A) is now public
+# Pending LRG record LRG_1069(PML) is now public
+# Pending LRG record LRG_1070(RARA) is now public
+# Pending LRG record LRG_1073(AHSP) is now public
+# Pending LRG record LRG_1078(PPOX) is now public
+# Pending LRG record LRG_1082(CALM3) is now public
+# Pending LRG record LRG_1083(KCNE5) is now public
+# Pending LRG record LRG_1084(TERF2IP) is now public
+# Pending LRG record LRG_1085(RHOA) is now public
+# Pending LRG record LRG_1086(MAP3K6) is now public
+# Pending LRG record LRG_1088(PDP2) is now public
+# Pending LRG record LRG_1089(LIPT2) is now public
+# Pending LRG record LRG_1091(SLC25A46) is now public
+# Pending LRG record LRG_1092(COQ8A) is now public
+# Pending LRG record LRG_1094(WHRN) is now public
+# Pending LRG record LRG_1095(ADGRV1) is now public
+# Pending LRG record LRG_1107(DCC) is now public
+# Pending LRG record LRG_1108(CTNNB1) is now public
+# Pending LRG record LRG_1109(FCGR2A) is now public
+# Pending LRG record LRG_1110(GNAQ) is now public
+# Pending LRG record LRG_1111(GNA11) is now public
+# Pending LRG record LRG_1112(BCR) is now public
+# Pending LRG record LRG_1114(SLFN14) is now public
+# Pending LRG record LRG_1116(COL4A1) is now public
+# Pending LRG record LRG_1118(MECOM) is now public
+# Pending LRG record LRG_1121(IKZF1) is now public
+# Pending LRG record LRG_1126(TPI1) is now public
+# Pending LRG record LRG_1139(RPS14) is now public
+# Pending LRG record LRG_1144(RPS19) is now public
+# Pending LRG record LRG_1157(ZIC2) is now public
+# Pending LRG record LRG_1167(GSR) is now public
+# Pending LRG record LRG_1172(ADCY1) is now public
+# Pending LRG record LRG_1174(ABHD5) is now public
+# Pending LRG record LRG_1175(ATP6V0A4) is now public
+# Pending LRG record LRG_1176(ATP6V1B1) is now public
+# Pending LRG record LRG_1177(PFKM) is now public
+# Pending LRG record LRG_1181(ABCG5) is now public
+# Pending LRG record LRG_1182(ABCG8) is now public
+# Pending LRG record LRG_1189(CD9) is now public
+# Pending LRG record LRG_1192(TRPM7) is now public
+# Pending LRG record LRG_1193(SYNGAP1) is now public
+# Pending LRG record LRG_1194(IQSEC2) is now public
+# Pending LRG record LRG_1225(HBA1) is now public
+# Pending LRG record LRG_1236(GRM6) is now public
+# Pending LRG record LRG_1240(HBA2) is now public
+# Pending LRG record LRG_1245(FOXC1) is now public
+# Pending LRG record LRG_1252(CHST6) is now public
+# Pending LRG record LRG_1257(CDC6) is now public
+# Pending LRG record LRG_1258(CCDC8) is now public
+# Pending LRG record LRG_1259(AMER1) is now public
+# Pending LRG record LRG_1261(B3GALT6) is now public
+# Pending LRG record LRG_1266(CISD2) is now public
+# Pending LRG record LRG_1268(DLL4) is now public
+# Pending LRG record LRG_1269(DVL3) is now public
+# Pending LRG record LRG_1270(DARS2) is now public
+# Pending LRG record LRG_1271(CRYBB1) is now public
+# Pending LRG record LRG_1272(DHCR24) is now public
+# Pending LRG record LRG_1273(DHH) is now public
+# Pending LRG record LRG_1275(CHRNG) is now public
+# Pending LRG record LRG_1276(BMPER) is now public
+# Pending LRG record LRG_1278(EIF2B5) is now public
+# Pending LRG record LRG_1279(DLX5) is now public
+# Pending LRG record LRG_1280(CA5A) is now public
+# Pending LRG record LRG_1281(ESPN) is now public
+# Pending LRG record LRG_1282(BSND) is now public
+# Pending LRG record LRG_1284(EIF4A3) is now public
+# Pending LRG record LRG_1288(ENPP1) is now public
+# Pending LRG record LRG_1289(GJA1) is now public
+# Pending LRG record LRG_1290(CYP26C1) is now public
+# Pending LRG record LRG_1291(MIP) is now public
+# Pending LRG record LRG_1292(FOXC2) is now public
+# Pending LRG record LRG_1293(GYS2) is now public
+# Pending LRG record LRG_1294(KRT6A) is now public
+# Pending LRG record LRG_1295(FOXL2) is now public
+# Pending LRG record LRG_1296(HSD17B3) is now public
+# Pending LRG record LRG_1297(KCNA1) is now public
+# Pending LRG record LRG_1298(LPL) is now public
+# Pending LRG record LRG_1299(LRPAP1) is now public
+# Pending LRG record LRG_1300(LRP2) is now public
+# Pending LRG record LRG_1301(MMAA) is now public
+# Pending LRG record LRG_1302(KRT83) is now public
+# Pending LRG record LRG_1303(FGF3) is now public
+# Pending LRG record LRG_1304(MESP2) is now public
+# Pending LRG record LRG_1305(KCNN4) is now public
+# Pending LRG record LRG_1309(ITM2B) is now public
+# Pending LRG record LRG_1310(LMBRD1) is now public
+# Pending LRG record LRG_1331(GJB4) is now public
+# Pending LRG record LRG_1335(HBD) is now public
+# Pending LRG record LRG_1340(FLNA) is now public
+# Pending LRG record LRG_1342(MSX1) is now public
+# Pending LRG record LRG_1343(KRT12) is now public
+# Pending LRG record LRG_1344(HSPA9) is now public
+# Pending LRG record LRG_1345(KRT17) is now public
+# Pending LRG record LRG_1346(MC4R) is now public
+# Pending LRG record LRG_1348(ENAM) is now public
+# Pending LRG record LRG_1349(HOXA13) is now public
+# Pending LRG record LRG_1350(GJB2) is now public
+# Pending LRG record LRG_1353(LARS2) is now public
+# Pending LRG record LRG_1354(MYO3A) is now public
+# Pending LRG record LRG_1355(POU4F3) is now public
+# Pending LRG record LRG_1356(S1PR2) is now public
+# Pending LRG record LRG_1357(SLITRK6) is now public
+# Pending LRG record LRG_1358(SMPX) is now public
+# Pending LRG record LRG_1359(SNAI2) is now public
+# Pending LRG record LRG_1360(TPRN) is now public
+# Pending LRG record LRG_1362(ANKH) is now public
+# Pending LRG record LRG_1363(AP1S1) is now public
+# Pending LRG record LRG_1373(GPSM2) is now public
+# Pending LRG record LRG_1374(HARS1) is now public
+# Pending LRG record LRG_1376(HARS2) is now public
+# Pending LRG record LRG_1377(ILDR1) is now public
+# Pending LRG record LRG_1378(KCNQ4) is now public
+# Pending LRG record LRG_1379(KITLG) is now public
+# Pending LRG record LRG_1380(MARVELD2) is now public
+# Pending LRG record LRG_1381(EDN3) is now public
+# Pending LRG record LRG_1382(CCDC50) is now public
+# Pending LRG record LRG_1385(SYNE4) is now public
+# Pending LRG record LRG_1394(SLC52A3) is now public
+# Pending LRG record LRG_1395(GJB6) is now public
+# Pending LRG record LRG_1402(CLPP) is now public
+# Pending LRG record LRG_1403(ATR) is now public
+# Pending LRG record LRG_1404(KMT2E) is now public
+# Pending LRG record LRG_1405(RSPO2) is now public
+# Pending LRG record LRG_1406(AR) is now public
+# Pending LRG record LRG_1407(CUL1) is now public
+# Pending LRG record LRG_1408(CTAGE6) is now public
+# Pending LRG record LRG_1409(FOXO1) is now public
+# Pending LRG record LRG_1412(SPOP) is now public
+# Pending LRG record LRG_1413(CDK12) is now public
+# Pending LRG record LRG_1414(RAD54L) is now public
+# Pending LRG record LRG_1415(FOXA1) is now public
+# Pending LRG record LRG_1416(USH1G) is now public
+# Pending LRG record LRG_1418(CDC14A) is now public
+# Pending LRG record LRG_1419(CD164) is now public
+# Pending LRG record LRG_1420(MYO7A) is now public
+# Pending LRG record LRG_1421(ASXL2) is now public
+# Pending LRG record LRG_1422(EP300) is now public
+# Pending LRG record LRG_1423(BIRC3) is now public
+# Pending LRG record LRG_1424(BTG1) is now public
+# Pending LRG record LRG_1426(CREBBP) is now public
+# Pending LRG record LRG_1428(GSDME) is now public
+# Pending LRG record LRG_1430(GALK1) is now public
+# Pending LRG record LRG_153(LCK) is now public
