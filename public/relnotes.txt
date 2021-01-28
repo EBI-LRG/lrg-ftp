@@ -1,28 +1,23 @@
-LRG release 754 (28-Jan-2021)
+LRG release 755 (28-Jan-2021)
 # Schema version 1.10
 
-There are 1097 LRG entries
-There are 228 pending LRG entries
+There are 1112 LRG entries
+There are 213 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_1007(OPRM1) updated
-# Pending LRG record LRG_1016(PANK2) updated
-# Pending LRG record LRG_1053(PPIE) updated
-# Pending LRG record LRG_1061(INPP5F) updated
-# Pending LRG record LRG_1096(KIAA0586) updated
-# Pending LRG record LRG_1101(PLAGL1) updated
-# Pending LRG record LRG_1128(TMPRSS6) updated
-# Pending LRG record LRG_1200(RAX2) updated
-# Pending LRG record LRG_1388(MLF1) updated
-# Pending LRG record LRG_166(TAP1) updated
-# Pending LRG record LRG_167(TAP) updated
-# Pending LRG record LRG_431(TNNT2) updated
-# Pending LRG record LRG_660(MAPT) updated
-# Pending LRG record LRG_731(IL21R) updated
-# Pending LRG record LRG_740(FHL2) updated
-# Pending LRG record LRG_833(MFSD8) updated
-# Pending LRG record LRG_840(IGSF1) updated
-# Pending LRG record LRG_842(POMT1) updated
-# Pending LRG record LRG_854(DAG1) updated
-# Pending LRG record LRG_856(LARGE1) updated
+# Pending LRG record LRG_1000(GPR101) is now public
+# Pending LRG record LRG_1015(PLA2G6) is now public
+# Pending LRG record LRG_1184(DSE) is now public
+# Pending LRG record LRG_1307(MMP21) is now public
+# Pending LRG record LRG_1326(CDC42) is now public
+# Pending LRG record LRG_1352(LHFPL5) is now public
+# Pending LRG record LRG_1388(MLF1) is now public
+# Pending LRG record LRG_1411(MYSM1) is now public
+# Pending LRG record LRG_436(ACTN2) is now public
+# Pending LRG record LRG_658(C9orf72) is now public
+# Pending LRG record LRG_718(OTX2) is now public
+# Pending LRG record LRG_850(TNNT3) is now public
+# Pending LRG record LRG_857(SELENON) is now public
+# Pending LRG record LRG_878(SMARCA4) is now public
+# Pending LRG record LRG_888(PCSK6) is now public
