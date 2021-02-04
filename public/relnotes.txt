@@ -1,4 +1,4 @@
-LRG release 758 (03-Feb-2021)
+LRG release 759 (04-Feb-2021)
 # Schema version 1.10
 
 There are 1137 LRG entries
@@ -6,10 +6,38 @@ There are 188 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_1160(SLC11A2) updated
-# Pending LRG record LRG_247(WNK1) updated
-# Pending LRG record LRG_698(TMEM216) updated
-# Pending LRG record LRG_805(XG) updated
-# Pending LRG record LRG_810(FUT1) updated
-# Pending LRG record LRG_819(GCNT2) updated
-# Pending LRG record LRG_820(B3GALNT1) updated
+# Pending LRG record LRG_1030(H19) updated
+# Pending LRG record LRG_1031(IGF2) updated
+# Pending LRG record LRG_1032(GRB10) updated
+# Pending LRG record LRG_1033(MEST) updated
+# Pending LRG record LRG_1034(DIRAS3) updated
+# Pending LRG record LRG_1036(IGF2R) updated
+# Pending LRG record LRG_1040(ERLIN2) updated
+# Pending LRG record LRG_1041(TRAPPC9) updated
+# Pending LRG record LRG_1044(DLK1) updated
+# Pending LRG record LRG_1045(MKRN3) updated
+# Pending LRG record LRG_1046(MAGEL2) updated
+# Pending LRG record LRG_1047(NDN) updated
+# Pending LRG record LRG_1048(NNAT) updated
+# Pending LRG record LRG_1051(GNAS-AS1) updated
+# Pending LRG record LRG_1052(KCNQ1OT1) updated
+# Pending LRG record LRG_1053(PPIE) updated
+# Pending LRG record LRG_1055(IGF1R) updated
+# Pending LRG record LRG_1057(HTR5A) updated
+# Pending LRG record LRG_1058(MEG8) updated
+# Pending LRG record LRG_1060(GET1) updated
+# Pending LRG record LRG_1061(INPP5F) updated
+# Pending LRG record LRG_1062(FAM50B) updated
+# Pending LRG record LRG_1065(ZDBF2) updated
+# Pending LRG record LRG_1066(ZNF597) updated
+# Pending LRG record LRG_1068(ZNF331) updated
+# Pending LRG record LRG_1071(WDR27) updated
+# Pending LRG record LRG_1072(NAP1L5) updated
+# Pending LRG record LRG_1097(PEG10) updated
+# Pending LRG record LRG_1098(MEG3) updated
+# Pending LRG record LRG_1101(PLAGL1) updated
+# Pending LRG record LRG_1102(SNU13) updated
+# Pending LRG record LRG_1103(SVOPL) updated
+# Pending LRG record LRG_1104(VTRNA2-1) updated
+# Pending LRG record LRG_1105(GPR1-AS) updated
+# Pending LRG record LRG_1106(HM13) updated
