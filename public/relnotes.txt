@@ -1,41 +1,22 @@
-LRG release 763 (06-Feb-2021)
+LRG release 764 (08-Feb-2021)
 # Schema version 1.10
 
-There are 1167 LRG entries
-There are 158 pending LRG entries
+There are 1181 LRG entries
+There are 144 pending LRG entries
 
 ### Notes
 
-# LRG record LRG_1032(GRB10) updated
-# LRG record LRG_1033(MEST) updated
-# LRG record LRG_1036(IGF2R) updated
-# Pending LRG record LRG_1037(CALCR) updated
-# LRG record LRG_1038(CPA4) updated
-# LRG record LRG_1044(DLK1) updated
-# LRG record LRG_1045(MKRN3) updated
-# LRG record LRG_1046(MAGEL2) updated
-# LRG record LRG_1047(NDN) updated
-# LRG record LRG_1048(NNAT) updated
-# LRG record LRG_1051(GNAS-AS1) updated
-# LRG record LRG_1052(KCNQ1OT1) updated
-# LRG record LRG_1053(PPIE) updated
-# LRG record LRG_1055(IGF1R) updated
-# LRG record LRG_1057(HTR5A) updated
-# LRG record LRG_1058(MEG8) updated
-# LRG record LRG_1060(GET1) updated
-# LRG record LRG_1061(INPP5F) updated
-# LRG record LRG_1062(FAM50B) updated
-# LRG record LRG_1065(ZDBF2) updated
-# LRG record LRG_1066(ZNF597) updated
-# LRG record LRG_1067(NAA60) updated
-# LRG record LRG_1071(WDR27) updated
-# LRG record LRG_1072(NAP1L5) updated
-# LRG record LRG_1098(MEG3) updated
-# LRG record LRG_1101(PLAGL1) updated
-# LRG record LRG_1102(SNU13) updated
-# LRG record LRG_1103(SVOPL) updated
-# LRG record LRG_1104(VTRNA2-1) updated
-# LRG record LRG_1105(GPR1-AS) updated
-# LRG record LRG_1106(HM13) updated
-# Pending LRG record LRG_646(FLI1) updated
-# Pending LRG record LRG_827(SMIM1) updated
+# Pending LRG record LRG_1025(TCF20) is now public
+# Pending LRG record LRG_1037(CALCR) is now public
+# Pending LRG record LRG_803(SLC4A1) is now public
+# Pending LRG record LRG_809(ICAM4) is now public
+# Pending LRG record LRG_813(GYPC) is now public
+# Pending LRG record LRG_814(CR1) is now public
+# Pending LRG record LRG_817(CD151) is now public
+# Pending LRG record LRG_819(GCNT2) is now public
+# Pending LRG record LRG_820(B3GALNT1) is now public
+# Pending LRG record LRG_821(AQP3) is now public
+# Pending LRG record LRG_823(ABCG2) is now public
+# Pending LRG record LRG_824(ABCB6) is now public
+# Pending LRG record LRG_826(GBGT1) is now public
+# Pending LRG record LRG_827(SMIM1) is now public
