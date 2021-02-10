@@ -1,4 +1,4 @@
-LRG release 766 (09-Feb-2021)
+LRG release 767 (10-Feb-2021)
 # Schema version 1.10
 
 There are 1181 LRG entries
@@ -6,5 +6,4 @@ There are 144 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_792(ABO) updated
-# Pending LRG record LRG_804(ACHE) updated
+# Pending LRG record LRG_795(A4GALT) updated
