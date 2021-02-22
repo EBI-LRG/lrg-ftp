@@ -1,4 +1,4 @@
-LRG release 780 (19-Feb-2021)
+LRG release 781 (22-Feb-2021)
 # Schema version 1.10
 
 There are 1282 LRG entries
@@ -6,38 +6,4 @@ There are 43 pending LRG entries
 
 ### Notes
 
-# Pending LRG record LRG_1002(CD109) is now public
-# Pending LRG record LRG_1004(PRKACG) is now public
-# Pending LRG record LRG_1006(CDKL3) is now public
-# Pending LRG record LRG_1035(HYMAI) is now public
-# Pending LRG record LRG_1056(MESTIT1) is now public
-# Pending LRG record LRG_1064(IRAIN) is now public
-# Pending LRG record LRG_1068(ZNF331) is now public
-# Pending LRG record LRG_1090(RNASEH1) is now public
-# Pending LRG record LRG_1119(NEUROD1) is now public
-# Pending LRG record LRG_1197(GNE) is now public
-# Pending LRG record LRG_1198(KDR) is now public
-# Pending LRG record LRG_1202(RNU4ATAC) is now public
-# Pending LRG record LRG_1204(SNORD118) is now public
-# Pending LRG record LRG_247(WNK1) is now public
-# Pending LRG record LRG_381(CACNB2) is now public
-# Pending LRG record LRG_431(TNNT2) is now public
-# Pending LRG record LRG_573(PROZ) is now public
-# Pending LRG record LRG_585(FGG) is now public
-# Pending LRG record LRG_591(A2M) is now public
-# Pending LRG record LRG_645(SERPINE2) is now public
-# Pending LRG record LRG_647(TFPI2) is now public
-# Pending LRG record LRG_648(CRLF3) is now public
-# Pending LRG record LRG_649(MMRN2) is now public
-# Pending LRG record LRG_705(CCDC78) is now public
-# Pending LRG record LRG_707(IL12RB2) is now public
-# Pending LRG record LRG_711(USP20) is now public
-# Pending LRG record LRG_739(FHL1) is now public
-# Pending LRG record LRG_792(ABO) is now public
-# Pending LRG record LRG_796(RHD) is now public
-# Pending LRG record LRG_807(ART4) is now public
-# Pending LRG record LRG_815(CD44) is now public
-# Pending LRG record LRG_816(BSG) is now public
-# Pending LRG record LRG_854(DAG1) is now public
-# Pending LRG record LRG_87(NCF1) is now public
-# Pending LRG record LRG_95(PTPRC) is now public
+# Pending LRG record LRG_797(RHCE) updated
