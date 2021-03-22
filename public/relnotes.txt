@@ -1,4 +1,4 @@
-LRG release 804 (19-Mar-2021)
+LRG release 805 (22-Mar-2021)
 # Schema version 1.10
 
 There are 1324 LRG entries
@@ -90,6 +90,7 @@ There are 1 pending LRG entries
 # LRG record LRG_1072(NAP1L5) updated
 # LRG record LRG_1073(AHSP) updated
 # LRG record LRG_1074(GCK) updated
+# Pending LRG record LRG_1075(DUX4) updated
 # LRG record LRG_1076(HMBS) updated
 # LRG record LRG_1077(CPOX) updated
 # LRG record LRG_1078(PPOX) updated
